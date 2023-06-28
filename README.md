@@ -3,7 +3,7 @@
 <h3 align="center">I am an aspiring computer vision and robotics enthusiast, focusing on perception, path planning, motion, machine learning, and AI. Actively seeking opportunities to develop advanced solutions and contribute to groundbreaking robotics projects.</h3>
 
 <img align="right" alt="robot" width="800" ="https://giphy.com/gifs/tczJoRU7XwBS8"/>
-<img align="right" alt="robot" img src="https://i.gifer.com/J50.gif" width="400"  />
+<img src="https://media.giphy.com/media/S0hxMGYFhEMzm/giphy.gif" width="40" height="40" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile%20views&color=0e75b6&style=flat" alt="pgeedh" /> </p>
