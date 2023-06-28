@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Geedh</h1>
 <h3 align="center">I am an aspiring computer vision and robotics enthusiast, focusing on perception, path planning, motion, machine learning, and AI. Actively seeking opportunities to develop advanced solutions and contribute to groundbreaking robotics projects.</h3>
 
-<img="![J50](https://github.com/pgeedh/pgeedh/assets/78837732/817eddbc-f06e-47a3-a79f-0e32a4e7a2b8)" img align="right" alt="robot" width="400" >
+<img align="right" "![J50](https://github.com/pgeedh/pgeedh/assets/78837732/817eddbc-f06e-47a3-a79f-0e32a4e7a2b8)" img align="right" alt="robot" width="400" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile%20views&color=0e75b6&style=flat" alt="pgeedh" /> </p>
