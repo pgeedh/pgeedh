@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Geedh</h1>
 <h3 align="center">I am an aspiring computer vision and robotics enthusiast, focusing on perception, path planning, motion, machine learning, and AI. Actively seeking opportunities to develop advanced solutions and contribute to groundbreaking robotics projects.</h3>
 
-<img align="right" alt="robot" width="800" ="https://i.gifer.com/J50.gif"/>
+<img align="right" alt="robot" width="800" ="https://giphy.com/gifs/tczJoRU7XwBS8"/>
 <img align="right" alt="robot" img src="https://i.gifer.com/J50.gif" width="400"  />
 
 
