@@ -6,7 +6,9 @@
 </div>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 
 <!-- Social Badges -->
 <p align="center">
@@ -38,10 +40,8 @@
 <!-- Skills Section -->
 ## 🛠️ Technical Stack
 <p align="center">
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,blender,unreal,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,aws,azure,blender,unreal,unity" />
   <br>
-  <!-- Robotics-specific badges -->
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/PCL-FF6F00?style=for-the-badge&logo=point-cloud-library&logoColor=white" />
   <img src="https://img.shields.io/badge/Open3D-FF6F00?style=for-the-badge" />
 </p>
+
 <!-- Footer -->
 <div align="center">
   <p>⚡ <em>"Building the future of autonomous systems through code and innovation."</em></p>
