@@ -39,7 +39,7 @@
 ## 🛠️ Technical Stack
 <p align="center">
   <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,aws,azure,blender,unreal,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo" />
   
   <br>
   
