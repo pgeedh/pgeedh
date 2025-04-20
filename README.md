@@ -1,6 +1,6 @@
 <!-- Header with Banner -->
 <div align="center">
-  <img src="https://github.com/pgeedh/pgeedh/blob/main/new%20banner%20linkedin.png?raw=true" alt="Robotics Banner" width="100%">
+  <img src="[https://github.com/pgeedh/pgeedh/blob/main/new%20banner%20linkedin.png?raw=true](https://github.com/pgeedh/pgeedh/blob/main/1733067552208.jpeg)" alt="Robotics Banner" width="100%">
   <h1>👋 Hi, I'm Pruthvi Geedh</h1>
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
