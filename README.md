@@ -1,6 +1,6 @@
 <!-- Header with Banner -->
-<div align="center">
-  <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/banner.png?raw=true" alt="Robotics Banner" width="100%">
+
+  <img src="[https://github.com/user-attachments/assets/8e9ed89c-ec14-459a-9949-a9a0640a1060]" alt="Robotics Banner" width="100%">
   <h1>👋 Hi, I'm Pruthvi Geedh</h1>
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
