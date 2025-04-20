@@ -38,8 +38,8 @@
 <!Skills Section >
 ## 🛠️ Technical Stack
 <p align="center">
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=ros,cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,qt,aws,gcp,azure,blender,unreal,unity" />
+  <! Skill Icons >
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,aws,azure,blender,unreal,unity" />
   
   <br>
   
