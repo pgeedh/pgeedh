@@ -2,7 +2,7 @@
 
 <!-- Header with Banner -->
 <div align="center">
-  <img src="[https://github.com/pgeedh/pgeedh/blob/main/new%20banner%20linkedin.png" alt="Banner" width="100%"/](https://github.com/user-attachments/assets/1edca0fb-ab56-4dfd-bd17-68d5241acc64)>
+  <img src="[https://github.com/pgeedh/pgeedh/blob/main/new%20banner%20linkedin.png" alt="Banner" width="100%"/]>
   <h1>👋 Hi, I'm Pruthvi Geedh</h1>
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
