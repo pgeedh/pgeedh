@@ -129,6 +129,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <p>⚡ <em>"Transforming mechanical systems into intelligent autonomous solutions"</em></p>
   <img src="https://img.shields.io/badge/Open_to-Robotics%20Projects%20|%20Research%20Collaborations%20|%20Tech%20Consulting-0088cc?style=for-the-badge&logo=handshake">
 </div>
