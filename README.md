@@ -44,7 +44,7 @@
 <!-- Skills Section -->
 ## 🛠️ Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks" alt="Skills" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=ros, ros2, cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks, nvidia ominverse" alt="Skills" width="100%"/>
 </p>
 
 <!-- Project Showcase -->
