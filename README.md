@@ -26,35 +26,45 @@
     <img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </p>
-
-<!-- About Me -->
-<div align="center">
-  <img src="https://github.com/pgeedh/pgeedh/blob/main/J50.gif?raw=true" width="300" height="300" align="right"/>
   
-  ### 🔭 Professional Summary
-  Robotics Engineer with 2+ years experience specializing in:
-  - Autonomous Systems (SLAM, Path Planning)
-  - Computer Vision Pipelines (YOLO, OpenCV, MediaPipe)
-  - AI/ML Integration (PyTorch, TensorFlow)
-  - Full-cycle Robotics Development (ROS2, Gazebo, Hardware-Software Co-Design)
-  
-  
-  
-  **Education:** 
-  <div style="white-space: nowrap; display: flex; justify-content: center; align-items: flex-end; gap: 20px; margin: 10px 0;">
-    <div style="display: inline-block; text-align: center; vertical-align: top;">
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" style="height: 45px; width: auto; display: block; margin: 0 auto;">
-      <p style="font-size: 12px; margin: 5px 0 0;">MSc Robotics</p>
+   <!-- Left Column for Logos and Education -->
+  <div style="width: 500px; margin-right: 20px;">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" 
+           style="height: 50px; width: 50px; margin-right: 10px;" 
+           alt="University of Bristol"/>
+      <span>Master in Science  Robotics</span>
     </div>
-    <div style="display: inline-block; text-align: center; vertical-align: top;">
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/images.jpeg?raw=true" style="height: 45px; width: auto; display: block; margin: 0 auto;">
-      <p style="font-size: 12px; margin: 5px 0 0;">BEng Mechanical</p>
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/images.jpeg?raw=true" 
+           style="height: 40px; width: 40px; margin-right: 10px;" 
+           alt="Mumbai University"/>
+      <span>Bachleors in Engineering Mechanical</span>
     </div>
-    <div style="display: inline-block; text-align: center; vertical-align: top;">
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/BRL_Logo_Main-1920w.webp?raw=true" style="height: 45px; width: auto; display: block; margin: 0 auto;">
-      <p style="font-size: 12px; margin: 5px 0 0;">Research Assistant</p>
+    <div style="display: flex; align-items: center;">
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/BRL_Logo_Main-1920w.webp?raw=true" 
+           style="height: 40px; width: 40px; margin-right: 10px;" 
+           alt="Bristol Robotics Lab"/>
+      <span>Research Assistant</span>
     </div>
   </div>
+
+  <!-- Right Column for Professional Summary -->
+  <div style="flex: 1;">
+    <h3>🔭 Professional Summary</h3>
+    <p>Robotics Engineer with 2+ years experience specializing in:</p>
+    <ul>
+      <li>Autonomous Systems (SLAM, Path Planning)</li>
+      <li>Computer Vision Pipelines (YOLO, OpenCV, MediaPipe)</li>
+      <li>AI/ML Integration (PyTorch, TensorFlow)</li>
+      <li>Full-cycle Robotics Development (ROS2, Gazebo, Hardware-Software Co-Design)</li>
+    </ul>
+  </div>
+</div>
+
+<!-- GIF positioned absolutely -->
+<div style="position: absolute; top: 200px; right: 20px;">
+  <img src="https://github.com/pgeedh/pgeedh/blob/main/J50.gif?raw=true" width="300" height="300" alt="Robotics Animation"/>
 </div>
 
 
