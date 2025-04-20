@@ -1,6 +1,6 @@
 <!-- Header with Banner -->
 <div align="center">
-  <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/banner.png?raw=true" alt="Robotics Banner" width="100%">
+  <img src="https://github.com/pgeedh/pgeedh/blob/main/new%20banner%20linkedin.png?raw=true" alt="Robotics Banner" width="100%">
   <h1>👋 Hi, I'm Pruthvi Geedh</h1>
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
@@ -29,7 +29,7 @@
 
 <!-- About Me -->
 <div align="center">
-  <img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif" width="300" height="300" align="right"/>
+  <img src="https://github.com/pgeedh/pgeedh/blob/main/J50.gif?raw=true" width="300" height="300" align="right"/>
   
   ### 🔭 Professional Summary
   Robotics Engineer with 2+ years experience specializing in:
@@ -41,19 +41,20 @@
   **Education:** 
   <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
     <div>
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Bristol_coat_of_arms.svg/1200px-University_of_Bristol_coat_of_arms.svg" width="40" height="40" alt="University of Bristol"/>
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" width="60" height="60" alt="University of Bristol"/>
       <p style="font-size: 12px; margin: 5px 0 0;">MSc Robotics</p>
     </div>
     <div>
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/University_of_Mumbai_Logo.svg/1200px-University_of_Mumbai_Logo.svg" width="40" height="40" alt="Mumbai University"/>
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/images.jpeg?raw=true" width="60" height="60" alt="Mumbai University"/>
       <p style="font-size: 12px; margin: 5px 0 0;">BEng Mechanical</p>
     </div>
     <div>
-      <img src="https://www.bristolroboticslab.com/wp-content/uploads/2018/05/BRL-Logo-2018.png" width="40" height="40" alt="Bristol Robotics Lab"/>
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/BRL_Logo_Main-1920w.webp?raw=true" width="60" height="60" alt="Bristol Robotics Lab"/>
       <p style="font-size: 12px; margin: 5px 0 0;">Research Assistant</p>
     </div>
   </div>
 </div>
+
 
 <!-- Skills Section -->
 ## 🛠️ Technical Stack
