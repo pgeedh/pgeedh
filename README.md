@@ -31,24 +31,49 @@
 <div align="center">
   <img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif" width="300" height="300" align="right"/>
   
+  ### 🔭 Professional Summary
+  Robotics Engineer with 2+ years experience specializing in:
+  - Autonomous Systems (SLAM, Path Planning)
+  - Computer Vision Pipelines (YOLO, OpenCV, MediaPipe)
+  - AI/ML Integration (PyTorch, TensorFlow)
+  - Full-cycle Robotics Development (ROS2, Gazebo, Hardware-Software Co-Design)
   
   **Education:** 
-  <img src="https://img.shields.io/badge/MSc_Robotics-University_of_Bristol-0088cc?style=flat&logo=graduation-cap" alt="MSc Robotics"/> 
-  <img src="https://img.shields.io/badge/BEng-Mechanical-0088cc?style=flat&logo=book" alt="BEng Mechanical"/>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Bristol_coat_of_arms.svg/1200px-University_of_Bristol_coat_of_arms.svg.png" width="40" height="40" alt="University of Bristol"/>
+      <p style="font-size: 12px; margin: 5px 0 0;">MSc Robotics</p>
+    </div>
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/University_of_Mumbai_Logo.svg/1200px-University_of_Mumbai_Logo.svg.png" width="40" height="40" alt="Mumbai University"/>
+      <p style="font-size: 12px; margin: 5px 0 0;">BEng Mechanical</p>
+    </div>
+    <div>
+      <img src="https://www.bristolroboticslab.com/wp-content/uploads/2018/05/BRL-Logo-2018.png" width="40" height="40" alt="Bristol Robotics Lab"/>
+      <p style="font-size: 12px; margin: 5px 0 0;">Research Assistant</p>
+    </div>
+  </div>
 </div>
 
 <!-- Skills Section -->
 ## 🛠️ Technical Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,aws,azure,blender" width="85%"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/ROS/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SLAM-FF6F00?style=for-the-badge&logo=map-marked-alt"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Industrial_Robotics-223344?style=for-the-badge&logo=robot"/>
-  <img src="https://img.shields.io/badge/3D_Modeling-4695EB?style=for-the-badge&logo=blender"/>
-</p>
-
+<div align="center" style="margin-left: 20px;">
+  <!-- First Row -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git" alt="Skills Row 1"/>
+  </p>
+  <!-- Second Row -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,matlab,solidworks,gazebo,cmake,aws,azure,blender" alt="Skills Row 2"/>
+  </p>
+  <!-- Frameworks -->
+  <p>
+    <img src="https://img.shields.io/badge/ROS/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SLAM-FF6F00?style=for-the-badge&logo=map-marked-alt"/>
+    <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Industrial_Robotics-223344?style=for-the-badge&logo=robot"/>
+  </p>
+</div>
 
 <!-- Highlighted Projects -->
 ## 🚀 Featured Projects
@@ -73,39 +98,22 @@
       <p>Pipeline inspection with corrosion detection</p>
     </td>
   </tr>
-  <tr>
-    <td>
-      <h4><a href="https://github.com/pgeedh/emotion-detection">Emotion Detection</a></h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
-      <img src="https://img.shields.io/badge/FER-85%25-brightgreen">
-      <p>Real-time sentiment analysis system</p>
-    </td>
-    <td>
-      <h4><a href="https://github.com/pgeedh/quadcopter-control">Quadcopter Control</a></h4>
-      <img src="https://img.shields.io/badge/PID-important">
-      <img src="https://img.shields.io/badge/3D_Trajectory-blue">
-      <p>Precision flight control algorithms</p>
-    </td>
-    <td>
-      <h4><a href="https://github.com/pgeedh/industrial-defect-detection">Industrial Defect Detection</a></h4>
-      <img src="https://img.shields.io/badge/Canny_Edge-90%25-brightgreen">
-      <img src="https://img.shields.io/badge/Quality_Control-success">
-      <p>Automated crack identification</p>
-    </td>
-  </tr>
 </table>
 
 <!-- GitHub Stats -->
-## 🌱 GitHub Contributions
+## 🌱 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgeedh&theme=dark&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgeedh&layout=compact&theme=dark&hide_border=true"/>
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pgeedh&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Chart" alt="Contribution Chart"/>
+  
+  <!-- Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgeedh&theme=light&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=white&hide_border=true"/>
+  https://jandee.vercel.app/%pgeedh%
 </div>
 
 <!-- Footer -->
 <div align="center">
+  <p>⚡ <em>"Transforming mechanical systems into intelligent autonomous solutions"</em></p>
   <img src="https://img.shields.io/badge/Open_to-Robotics%20Projects%20|%20Research%20Collaborations%20|%20Tech%20Consulting-0088cc?style=for-the-badge&logo=handshake">
 </div>
