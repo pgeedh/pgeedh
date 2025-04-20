@@ -35,11 +35,11 @@
   - Passionate about **ROS2, Gazebo, and hardware-software co-design**
 </div>
 
-<!-- Skills Section -->
+<!Skills Section >
 ## 🛠️ Technical Stack
 <p align="center">
   <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,qt,aws,gcp,azure,blender,unreal,unity" />
+  <img src="https://skillicons.dev/icons?i=ros,cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,qt,aws,gcp,azure,blender,unreal,unity" />
   
   <br>
   
@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Open_Robotics-223344?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PCL-FF6F00?style=for-the-badge&logo=point-cloud-library&logoColor=white" />
   <img src="https://img.shields.io/badge/Open3D-FF6F00?style=for-the-badge" />
+ 
 </p>
 
 <!-- Contributions Section -->
