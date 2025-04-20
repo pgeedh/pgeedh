@@ -32,7 +32,6 @@
 | Path Planning     | Keras/Scikit-learn | Docker/Git                  | 3D Printing/CAD     |
 | Robot Control     | YOLO/Faster R-CNN  | MATLAB/Simulink             | Ultrasonic Sensors  |
 
----
 
 ### 🔥 Highlighted Projects
 | Project | Description | Technologies |
