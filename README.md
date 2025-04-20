@@ -41,11 +41,11 @@
   **Education:** 
   <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
     <div>
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Bristol_coat_of_arms.svg/1200px-University_of_Bristol_coat_of_arms.svg.png" width="40" height="40" alt="University of Bristol"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Bristol_coat_of_arms.svg/1200px-University_of_Bristol_coat_of_arms.svg" width="40" height="40" alt="University of Bristol"/>
       <p style="font-size: 12px; margin: 5px 0 0;">MSc Robotics</p>
     </div>
     <div>
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/University_of_Mumbai_Logo.svg/1200px-University_of_Mumbai_Logo.svg.png" width="40" height="40" alt="Mumbai University"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/University_of_Mumbai_Logo.svg/1200px-University_of_Mumbai_Logo.svg" width="40" height="40" alt="Mumbai University"/>
       <p style="font-size: 12px; margin: 5px 0 0;">BEng Mechanical</p>
     </div>
     <div>
@@ -104,7 +104,7 @@
 ## 🌱 GitHub Activity
 <div align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pgeedh&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Chart" alt="Contribution Chart"/>
+  <img src="https://github-readme-activity-chart.vercel.app/graph?username=pgeedh&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Chart" alt="Contribution Chart"/>
   
   <!-- Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgeedh&theme=light&hide_border=true"/>
