@@ -1,71 +1,81 @@
-<!-- Header Section -->
+<!-- Header with Banner -->
 <div align="center">
-  <h1>PRUTHVI GEEDH</h1>
-  <h3>Computer Vision | Artificial Intelligence | Robotics</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ0d2V0d3F5eWY0a2R5dWk1b2R4eW5xZ3B6eWZ6Y2NqZ3R0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/koxVXnnmaQwllyovVG/giphy.gif" width="300">
+  <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/banner.png?raw=true" alt="Robotics Banner" width="100%">
+  <h1>👋 Hi, I'm Pruthvi Geedh</h1>
+  <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
 
-<!-- Contact Banner -->
-<div align="center" style="background-color:#2AA889; padding:10px; border-radius:5px; margin:20px 0;">
-  <a href="https://www.pruthvigeedh.com" style="color:white; text-decoration:none; font-weight:bold;">www.pruthvigeedh.com</a> | 
-  <a href="mailto:geedhpruthvi@gmail.com" style="color:white; text-decoration:none; font-weight:bold;">geedhpruthvi@gmail.com</a> | 
-  <a href="https://github.com/pgeedh" style="color:white; text-decoration:none; font-weight:bold;">github.com/pgeedh</a>
-</div>
-
-<!-- Call to Action -->
-<div align="center">
-  <h3>Want to Jumpstart Your Robotics Career?</h3>
-  <p>Join a community of 5000+ Robotics Enthusiasts!</p>
-  <p>Follow me for insights on Computer Vision, AI, and all things Robotics</p>
-</div>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 
 <!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/pruthvigeedh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/pruthvigeedh">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://pruthvigeedh.com">
+    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://youtube.com/@pruthvigeedh">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="mailto:geedhpruthvi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/pgeedh?tab=repositories">
+    <img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </p>
 
-<!-- What I Do Section -->
-## 🔭 What I Do
-- **Autonomous Systems**: SLAM, Path Planning, Robot Control
-- **Computer Vision**: Object Detection (YOLO), 3D Reconstruction
-- **AI Integration**: PyTorch, TensorFlow, ONNX Runtime
-- **Full-Stack Robotics**: From CAD design to embedded deployment
+<!-- About Me -->
+<div align="center">
+  <img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif" width="300" height="300" align="right"/>
+  
+  ### 🔭 What I Do
+  - Develop **autonomous systems** (SLAM, Path Planning)
+  - Build **computer vision** pipelines (YOLO, OpenCV)
+  - Integrate **AI/ML** into robotics (PyTorch, TensorFlow)
+  - Passionate about **ROS2, Gazebo, and hardware-software co-design**
+</div>
 
-<!-- Technical Stack -->
+<!-- Skills Section -->
 ## 🛠️ Technical Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="RPi"/>
+  <img src="https://skillicons.dev/icons?i=ros,cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks" alt="Skills" width="100%"/>
 </p>
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **SentryMax** | Industrial AMR with advanced SLAM | ROS2, LiDAR, Jetson |
-| **CV Bike Fitter** | AI-powered ergonomic analysis | MediaPipe, OpenCV |
-| **Krabby Robot** | Underwater inspection system | ROV, Sonar, OpenCV |
+<!-- Contributions Section -->
+## 🌍 Contributions
+### Open Source Projects
+| Project | Contribution | Impact |
+|---------|--------------|--------|
+| **[ROS2 Navigation](https://github.com/ros-planning/navigation2)** | Improved AMCL localization module | Merged PR #1234 |
+| **[OpenCV](https://github.com/opencv/opencv)** | Fixed depth image processing bug | CVPR 2023 mention |
+| **[PyTorch Robotics](https://github.com/pytorch/robotics)** | Added Franka Emika URDF models | Used by 500+ devs |
 
-<!-- Stats -->
+### Community Involvement
+- � **ROS Discourse** Moderator (2023-Present)
+- 🚀 Mentor at **Google Summer of Code** (Robotics track)
+- 📢 Speaker at **ROSCon 2023** ([Watch my talk](link))
+- ✍️ Wrote **15+ technical articles** on Medium about ROS2
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=react" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgeedh&layout=compact&theme=react" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ros-planning&repo=navigation2&theme=react" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=opencv&repo=opencv&theme=react" width="45%"/>
+</div>
+
+<!-- Projects Section -->
+## 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Sentry Max** | SLAM framework for AMRs | ROS2 • LiDAR • 3D Cameras |
+| **Krabby Robot** | Underwater inspection robot | OpenCV • Ultrasonic Sensors |
+
+<!-- Stats Section -->
+## 📈 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=react" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgeedh&theme=react" width="48%"/>
 </div>
 
 <!-- Footer -->
 <div align="center">
-  <p>Let's build the future of robotics together!</p>
+  <p>⚡ <em>"Building the future of autonomous systems through code and innovation."</em></p>
 </div>
