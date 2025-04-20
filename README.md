@@ -31,12 +31,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif" width="300" height="300" align="right"/>
   
-  ### 🔭 Professional Summary
-  Robotics Engineer with 2+ years experience specializing in:
-  - Autonomous Systems (SLAM, Path Planning)
-  - Computer Vision Pipelines (YOLO, OpenCV, MediaPipe)
-  - AI/ML Integration (PyTorch, TensorFlow)
-  - Full-cycle Robotics Development (ROS2, Gazebo, Hardware-Software Co-Design)
   
   **Education:** 
   <img src="https://img.shields.io/badge/MSc_Robotics-University_of_Bristol-0088cc?style=flat&logo=graduation-cap" alt="MSc Robotics"/> 
