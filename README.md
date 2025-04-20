@@ -24,6 +24,15 @@
 </p>
 
 
+### 🛠️ Technical Skills
+| **Robotics**      | **AI/ML**          | **Tools & Frameworks**       | **Hardware**        |
+|-------------------|--------------------|-----------------------------|---------------------|
+| ROS/ROS2          | PyTorch/TensorFlow | Gazebo/Rviz                 | Arduino/RPi         |
+| SLAM (LiDAR/3D)   | OpenCV/MediaPipe   | Isaac Sim/ADAMS             | STM32/Soldering     |
+| Path Planning     | Keras/Scikit-learn | Docker/Git                  | 3D Printing/CAD     |
+| Robot Control     | YOLO/Faster R-CNN  | MATLAB/Simulink             | Ultrasonic Sensors  |
+
+---
 
 ### 🔥 Highlighted Projects
 | Project | Description | Technologies |
