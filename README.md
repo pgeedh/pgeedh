@@ -49,22 +49,6 @@
   <img src="https://img.shields.io/badge/3D_Modeling-4695EB?style=for-the-badge&logo=blender"/>
 </p>
 
-<!-- Experience Highlights -->
-## 💼 Professional Journey
-<table>
-  <tr>
-    <td><strong>Kydo Nutrition</strong><br>Computer Vision Engineer<br>2024-25</td>
-    <td>• Developed food recognition using YOLO/CNNs<br>• Built real-time nutrition analysis system</td>
-  </tr>
-  <tr>
-    <td><strong>Bristol Robotics Lab</strong><br>Research Assistant<br>2024</td>
-    <td>• Eye gaze detection for tetraplegic assistive tech<br>• Hardware-software integration</td>
-  </tr>
-  <tr>
-    <td><strong>Thundertech Labs</strong><br>Robotics Engineer<br>2022-23</td>
-    <td>• 25% computational load reduction<br>• 15% mapping accuracy improvement</td>
-  </tr>
-</table>
 
 <!-- Highlighted Projects -->
 ## 🚀 Featured Projects
