@@ -56,13 +56,9 @@
 | **CV Bike Fitter** | AI-powered ergonomic analysis | MediaPipe • OpenAI API | [![GitHub](https://img.shields.io/badge/Code-181717?logo=github)](https://github.com/pgeedh/Bike-Fitter) |
 | **Emotion Detection** | Real-time FER+ system (85% acc.) | PyTorch • OpenCV | [![GitHub](https://img.shields.io/badge/Code-181717?logo=github)](https://github.com/pgeedh/Emotion-Detection) |
 
-<!-- Stats Section -->
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgeedh&theme=radical&hide_border=true" width="48%"/>
-
-</div>
+<!-- Github Analytics -->
+## 📈 GitHub Analytics
+<div align="center"> <!-- White-themed stats with custom border --> <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=default&hide_border=true&border_radius=10&bg_color=ffffff&text_color=333333&icon_color=2AA889&title_color=2AA889" width="48%"/> <!-- Streak stats with white background --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgeedh&theme=default&hide_border=true&background=ffffff&stroke=2AA889&ring=2AA889&fire=2AA889&currStreakNum=333333&sideNums=333333&currStreakLabel=333333" width="48%"/> </div><!-- Activity Graph --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pgeedh&theme=react&area=true&hide_border=true&bg_color=ffffff&color=2AA889&line=2AA889&point=333333" width="90%"/> </p><!-- Footer --><div align="center"> <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=2AA889&style=flat" alt="Profile Views"/> <p>⚡ <em>"Building the future of autonomous systems through code and innovation."</em></p> </div> ```
 
 <!-- Footer -->
 <div align="center">
