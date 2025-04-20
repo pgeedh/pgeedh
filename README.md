@@ -35,7 +35,7 @@
   - Passionate about **ROS2, Gazebo, and hardware-software co-design**
 </div>
 
-<! Skills Section >
+<! --Skills Section-- >
 ## 🛠️ Technical Stack
 <p align="center">
   <! Skill Icons >
