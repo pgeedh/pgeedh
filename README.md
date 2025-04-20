@@ -6,6 +6,7 @@
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
 
+ <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 <!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/pruthvigeedh">
@@ -62,7 +63,7 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+
   <p>⚡ <em>"Turning robotic visions into reality, one commit at a time."</em></p>
 </div>
 
