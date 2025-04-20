@@ -1,14 +1,14 @@
-<!-- Header with Banner -->
+<! Header with Banner >
 <div align="center">
   <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/banner.png?raw=true" alt="Robotics Banner" width="100%">
   <h1>👋 Hi, I'm Pruthvi Geedh</h1>
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
 
-<!-- Profile Views Counter -->
+<! Profile Views Counter >
 <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
 
-<!-- Social Badges -->
+<!Social Badges >
 <p align="center">
   <a href="https://linkedin.com/in/pruthvigeedh">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<!-- About Me -->
+<!About Me >
 <div align="center">
   <img src="https://media.giphy.com/media/koxVXnnmaQwllyovVG/giphy.gif" width="300" height="300" align="right"/>
   
@@ -35,15 +35,15 @@
   - Passionate about **ROS2, Gazebo, and hardware-software co-design**
 </div>
 
-<!-- Skills Section -->
+<! Skills Section >
 ## 🛠️ Technical Stack
 <p align="center">
-  <!-- Skill Icons -->
+  <! Skill Icons >
   <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo" />
   
   <br>
   
-  <!-- Robotics-specific badges -->
+  <!Robotics-specific badges >
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
