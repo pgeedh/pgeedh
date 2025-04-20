@@ -1,6 +1,5 @@
 ![logo](https://github.com/user-attachments/assets/1edca0fb-ab56-4dfd-bd17-68d5241acc64)
 
-!(https://github.com/pgeedh/pgeedh/blob/main/new%20banner%20linkedin.png)
 <h1 align="center">Hi 👋, I'm Pruthvi Geedh</h1>
 <h3 align="center">I am an aspiring computer vision and robotics enthusiast, focusing on perception, path planning, motion, machine learning, and AI. Actively seeking opportunities to develop advanced solutions and contribute to groundbreaking robotics projects.</h3>
 
