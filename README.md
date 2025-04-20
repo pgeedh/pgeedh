@@ -38,15 +38,21 @@
 <!-- Skills Section -->
 ## 🛠️ Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,ros2,cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,qt,nginx,aws,gcp,azure,blender,unreal,unity,nginx" />
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,qt,aws,gcp,azure,blender,unreal,unity" />
+  
   <br>
+  
+  <!-- Robotics-specific badges -->
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-Omniverse-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/MoveIt!-223344?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROS-Industrial-223344?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open-Robotics-223344?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Point-Cloud%20Library-FF6F00?style=for-the-badge" />
-</p>alt="Skills" width="100%"/>
+  <img src="https://img.shields.io/badge/ROS_Industrial-223344?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Robotics-223344?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCL-FF6F00?style=for-the-badge&logo=point-cloud-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open3D-FF6F00?style=for-the-badge" />
 </p>
 
 <!-- Contributions Section -->
