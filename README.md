@@ -1,6 +1,7 @@
 <!-- Header with Banner -->
 <div align="center">
-  <img src=">
+  <img src=![1733067552208](https://github.com/user-attachments/assets/23dd2828-fbe3-4fd8-8493-e0809e6e0c44)
+">
   <h1>👋 Hi, I'm Pruthvi Geedh</h1>
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
