@@ -1,6 +1,6 @@
 <!-- Header with Banner -->
-
-  <img src="[https://github.com/user-attachments/assets/8e9ed89c-ec14-459a-9949-a9a0640a1060]" alt="Robotics Banner" width="100%">
+<div align="center">
+  <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/banner.png?raw=true" alt="Robotics Banner" width="100%">
   <h1>👋 Hi, I'm Pruthvi Geedh</h1>
   <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
 </div>
@@ -35,11 +35,11 @@
   - Passionate about **ROS2, Gazebo, and hardware-software co-design**
 </div>
 
-<!Skills Section >
+<!-- Skills Section -->
 ## 🛠️ Technical Stack
 <p align="center">
-  <! Skill Icons >
-        <imgsrc="https://skillicons.dev/iconsi=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,aws,azure,blender,unreal,unity" />
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git,docker,matlab,solidworks,gazebo,cmake,aws,azure,blender,unreal,unity" />
   
   <br>
   
@@ -53,9 +53,7 @@
   <img src="https://img.shields.io/badge/Open_Robotics-223344?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PCL-FF6F00?style=for-the-badge&logo=point-cloud-library&logoColor=white" />
   <img src="https://img.shields.io/badge/Open3D-FF6F00?style=for-the-badge" />
- 
 </p>
-
 
 <!-- Footer -->
 <div align="center">
