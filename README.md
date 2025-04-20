@@ -80,19 +80,19 @@
 ## 🚀 Featured Projects
 <table>
   <tr>
-    <td width="33%">
+    <td width="30%">
       <h4><a href="https://github.com/pgeedh/sentrymax-slam">SentryMax SLAM</a></h4>
       <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros">
       <img src="https://img.shields.io/badge/LiDAR-important">
       <p>25% navigation precision boost | 30% obstacle reduction</p>
     </td>
-    <td width="33%">
+    <td width="30%">
       <h4><a href="https://github.com/pgeedh/vision-bike-fitting">Vision Bike Fitting</a></h4>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv">
       <img src="https://img.shields.io/badge/MediaPipe-blue">
       <p>Posture analysis with OpenAI integration</p>
     </td>
-    <td width="33%">
+    <td width="30%">
       <h4><a href="https://github.com/pgeedh/krabby-robot">Krabby Robot</a></h4>
       <img src="https://img.shields.io/badge/Underwater-0077B5?logo=water">
       <img src="https://img.shields.io/badge/Ultrasonic-yellow">
@@ -101,17 +101,6 @@
   </tr>
 </table>
 
-<!-- GitHub Stats -->
-## 🌱 GitHub Activity
-<div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-chart.vercel.app/graph?username=pgeedh&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Chart" alt="Contribution Chart"/>
-  
-  <!-- Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgeedh&theme=light&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=white&hide_border=true"/>
-  https://jandee.vercel.app/%pgeedh%
-</div>
 
 <!-- Footer -->
 <div align="center">
