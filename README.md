@@ -38,22 +38,26 @@
   - AI/ML Integration (PyTorch, TensorFlow)
   - Full-cycle Robotics Development (ROS2, Gazebo, Hardware-Software Co-Design)
   
+  
+  
   **Education:** 
-  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
-    <div>
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" width="60" height="60" alt="University of Bristol"/>
+  <div style="white-space: nowrap; display: flex; justify-content: center; align-items: flex-end; gap: 20px; margin: 10px 0;">
+    <div style="display: inline-block; text-align: center; vertical-align: top;">
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" style="height: 45px; width: auto; display: block; margin: 0 auto;">
       <p style="font-size: 12px; margin: 5px 0 0;">MSc Robotics</p>
     </div>
-    <div>
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/images.jpeg?raw=true" width="60" height="60" alt="Mumbai University"/>
+    <div style="display: inline-block; text-align: center; vertical-align: top;">
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/images.jpeg?raw=true" style="height: 45px; width: auto; display: block; margin: 0 auto;">
       <p style="font-size: 12px; margin: 5px 0 0;">BEng Mechanical</p>
     </div>
-    <div>
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/BRL_Logo_Main-1920w.webp?raw=true" width="60" height="60" alt="Bristol Robotics Lab"/>
+    <div style="display: inline-block; text-align: center; vertical-align: top;">
+      <img src="https://github.com/pgeedh/pgeedh/blob/main/BRL_Logo_Main-1920w.webp?raw=true" style="height: 45px; width: auto; display: block; margin: 0 auto;">
       <p style="font-size: 12px; margin: 5px 0 0;">Research Assistant</p>
     </div>
   </div>
 </div>
+
+
 
 
 <!-- Skills Section -->
