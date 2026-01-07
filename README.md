@@ -10,10 +10,10 @@
   </p>
 
   <p align="center" style="margin-top: 15px; margin-bottom: 15px;">
-    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" height="32" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol.png" height="32" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.jpeg" height="32" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.jpeg" height="32" alt="University of Mumbai"/></a>
+    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" height="50" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol.png" height="50" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.jpeg" height="50" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.jpeg" height="50" alt="University of Mumbai"/></a>
   </p>
 
   <p style="margin-bottom: 25px;">
