@@ -37,8 +37,8 @@
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,blender,solidworks,aws,azure,git,mysql&perline=9" />
       </td>
       <td width="45%" align="center" valign="middle">
-        <!-- Main Asset Integration -->
-        <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/J50.gif?raw=true" width="100%" style="border-radius: 15px; border: 2px solid #30363d; box-shadow: 0 0 20px rgba(88, 166, 255, 0.2);">
+        <!-- Main Asset Integration - Using Raw Github Usercontent for stability -->
+        <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/J50.gif" width="100%" style="border-radius: 15px; border: 2px solid #30363d; box-shadow: 0 0 20px rgba(88, 166, 255, 0.2);">
       </td>
     </tr>
   </table>
@@ -51,17 +51,17 @@
   <table width="100%">
     <tr>
       <td align="center">
-        <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" width="30"><br/>
+        <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol-logo-png_seeklogo-145952.png" width="30"><br/>
         <b>MSc ROBOTICS</b><br/>
         <small>Bristol University</small>
       </td>
       <td align="center">
-        <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/images.jpeg?raw=true" width="30"><br/>
+        <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/images.jpeg" width="30"><br/>
         <b>BE MECHANICAL</b><br/>
         <small>Mumbai University</small>
       </td>
       <td align="center">
-        <img src="https://github.com/pgeedh/pgeedh/blob/main/assets/BRL_Logo_Main-1920w.webp?raw=true" width="35"><br/>
+        <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" width="35"><br/>
         <b>RESEARCH ASSISTANT</b><br/>
         <small>Bristol Robotics Lab</small>
       </td>
@@ -76,17 +76,17 @@
   <table width="100%">
     <tr align="center">
       <td>
-        <img src="https://img.icons8.com/wired/64/58A6FF/radar.png" width="45"><br/>
+        <img src="https://img.icons8.com/ios-filled/100/58A6FF/radar.png" width="45"><br/>
         <b><a href="https://github.com/pgeedh/sentrymax-slam">SENTRYMAX SLAM</a></b><br/>
         <code>NAVIGATION CORE</code>
       </td>
       <td>
-        <img src="https://img.icons8.com/wired/64/58A6FF/bicycle.png" width="45"><br/>
+        <img src="https://img.icons8.com/ios-filled/100/58A6FF/bicycle.png" width="45"><br/>
         <b><a href="https://github.com/pgeedh/vision-bike-fitting">VISION BIKE FIT</a></b><br/>
         <code>BIOMETRIC ANALYSIS</code>
       </td>
       <td>
-        <img src="https://img.icons8.com/wired/64/58A6FF/robot-vacuum.png" width="45"><br/>
+        <img src="https://img.icons8.com/ios-filled/100/58A6FF/submarine.png" width="45"><br/>
         <b><a href="https://github.com/pgeedh/krabby-robot">KRABBY ROBOT</a></b><br/>
         <code>PERCEPTION ENGINE</code>
       </td>
@@ -98,7 +98,6 @@
 
 ### 📊 DATA STREAM ANALYTICS
 <div align="center">
-  <!-- Trophies Integrated -->
   <img src="https://github-profile-trophy.vercel.app/?username=pgeedh&theme=tokyonight&no-bg=true&column=7&margin-w=10" width="100%" />
 </div>
 
