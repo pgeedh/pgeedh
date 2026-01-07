@@ -10,8 +10,8 @@
   </p>
 
   <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/brl_logo.png" height="26" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/bristol_logo.png" height="30" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" height="26" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol.png" height="30" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.jpeg" height="30" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.jpeg" height="30" alt="University of Mumbai"/></a>
   </p>
