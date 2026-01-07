@@ -1,123 +1,123 @@
-<!-- Header with Banner -->
 <div align="center">
-  <img src="https://github.com/pgeedh/pgeedh/blob/main/1733067552208.jpeg" alt="Robotics Banner" width="100%">
-  <h1>👋 Hi, I'm Pruthvi Geedh</h1>
-  <h3>🤖 Robotics Engineer | Computer Vision Specialist | ROS Developer</h3>
+  <!-- Banner -->
+  <img src="https://github.com/pgeedh/pgeedh/blob/main/new%20banner%20linkedin.png?raw=true" alt="Banner" width="100%">
+
+  <br/>
+
+  <!-- Headline -->
+  <h1><img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/Assets/Hi.gif" width="30px"> I'm Pruthvi Geedh</h1>
+  <p align="center">
+    <strong>Building the eyes and brains of the next generation of robots.</strong>
+  </p>
+
+  <!-- Location and Status Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Location-London,%20UK-58A6FF?style=flat-square&logo=map-marker&logoColor=white" alt="London">
+    <img src="https://img.shields.io/badge/Open_to-Collaborations-238636?style=flat-square&logo=handshake&logoColor=white" alt="Open to Collaborations">
+    <img src="https://komarev.com/ghpvc/?username=pgeedh&label=VIEWS&color=58A6FF&style=flat-square" alt="Views">
+  </p>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://linkedin.com/in/pruthvigeedh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:geedhpruthvi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 </div>
 
-<!-- Profile Views Counter -->
+---
+
+### 🔭 Professional Mission
+I am a **Robotics & AI Engineer** dedicated to creating intelligent autonomous systems. My work bridges the gap between mechanical hardware and high-performance computer vision pipelines, focusing on SLAM, real-time perception, and ROS2 ecosystems.
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="55%" valign="top">
+        <h4>🚀 Core Expertise</h4>
+        <ul>
+          <li><strong>Autonomous Nav</strong>: SLAM (Nav2, LiDAR integration)</li>
+          <li><strong>Computer Vision</strong>: YOLO, MediaPipe, OpenCV</li>
+          <li><strong>AI/ML</strong>: PyTorch/TensorFlow for robotics</li>
+          <li><strong>System Design</strong>: Hardware-Software Co-Design</li>
+        </ul>
+        <br/>
+        <h4>🎓 Education & Research</h4>
+        <table>
+          <tr>
+            <td><img src="https://github.com/pgeedh/pgeedh/blob/main/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" width="25"></td>
+            <td><strong>MSc Robotics</strong><br/><small>University of Bristol</small></td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/pgeedh/pgeedh/blob/main/images.jpeg?raw=true" width="25"></td>
+            <td><strong>BE Mechanical Engineering</strong><br/><small>Mumbai University</small></td>
+          </tr>
+          <tr>
+            <td><img src="https://github.com/pgeedh/pgeedh/blob/main/BRL_Logo_Main-1920w.webp?raw=true" width="30"></td>
+            <td><strong>Research Assistant</strong><br/><small>Bristol Robotics Lab</small></td>
+          </tr>
+        </table>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="https://github.com/pgeedh/pgeedh/blob/main/J50.gif?raw=true" width="85%" style="border-radius: 10px;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <!-- Standardized Crisp Icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,ros,linux,docker,cmake,pytorch,tensorflow,opencv,arduino,raspberrypi,matlab,blender,solidworks,aws,azure,git,mysql,postman&perline=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SLAM-Nav2-FF6F00?style=flat-square&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</div>
+
+---
+
+### 📊 Performance Analytics
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pgeedh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Location-London,UK-0088cc?style=flat&logo=map-marker" alt="Location"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgeedh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="165" />
 </p>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/pruthvigeedh">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://pruthvigeedh.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:geedhpruthvi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/pgeedh?tab=repositories">
-    <img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  </a>
-</p>
-  
-   <!-- Left Column for Logos and Education -->
-  <div style="width: 500px; margin-right: 20px;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/university-of-bristol-logo-png_seeklogo-145952.png?raw=true" 
-           style="height: 50px; width: 50px; margin-right: 10px;" 
-           alt="University of Bristol"/>
-      <span>Master in Science  Robotics</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/images.jpeg?raw=true" 
-           style="height: 40px; width: 40px; margin-right: 10px;" 
-           alt="Mumbai University"/>
-      <span>Bachleors in Engineering Mechanical</span>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <img src="https://github.com/pgeedh/pgeedh/blob/main/BRL_Logo_Main-1920w.webp?raw=true" 
-           style="height: 40px; width: 40px; margin-right: 10px;" 
-           alt="Bristol Robotics Lab"/>
-      <span>Research Assistant</span>
-    </div>
-  </div>
+---
 
-  <!-- Right Column for Professional Summary -->
-  <div style="flex: 1;">
-    <h3>🔭 Professional Summary</h3>
-    <p>Robotics Engineer with 2+ years experience specializing in:</p>
-    <ul>
-      <li>Autonomous Systems (SLAM, Path Planning)</li>
-      <li>Computer Vision Pipelines (YOLO, OpenCV, MediaPipe)</li>
-      <li>AI/ML Integration (PyTorch, TensorFlow)</li>
-      <li>Full-cycle Robotics Development (ROS2, Gazebo, Hardware-Software Co-Design)</li>
-    </ul>
-  </div>
-</div>
-
-<!-- GIF positioned absolutely -->
-<div style="position: absolute; top: 200px; right: 20px;">
-  <img src="https://github.com/pgeedh/pgeedh/blob/main/J50.gif?raw=true" width="300" height="300" alt="Robotics Animation"/>
-</div>
-
-
-
-
-<!-- Skills Section -->
-## 🛠️ Technical Stack
-<div align="center" style="margin-left: 20px;">
-  <!-- First Row -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=cpp,python,opencv,pytorch,tensorflow,raspberrypi,arduino,linux,git" alt="Skills Row 1"/>
-  </p>
-  <!-- Second Row -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker,matlab,solidworks,gazebo,cmake,aws,azure,blender" alt="Skills Row 2"/>
-  </p>
-  <!-- Frameworks -->
-  <p>
-    <img src="https://img.shields.io/badge/ROS/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SLAM-FF6F00?style=for-the-badge&logo=map-marked-alt"/>
-    <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Industrial_Robotics-223344?style=for-the-badge&logo=robot"/>
-  </p>
-</div>
-
-<!-- Highlighted Projects -->
-## 🚀 Featured Projects
-<table>
-  <tr>
-    <td width="30%">
-      <h4><a href="https://github.com/pgeedh/sentrymax-slam">SentryMax SLAM</a></h4>
-      <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros">
-      <img src="https://img.shields.io/badge/LiDAR-important">
-      <p>25% navigation precision boost | 30% obstacle reduction</p>
-    </td>
-    <td width="30%">
-      <h4><a href="https://github.com/pgeedh/vision-bike-fitting">Vision Bike Fitting</a></h4>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv">
-      <img src="https://img.shields.io/badge/MediaPipe-blue">
-      <p>Posture analysis with OpenAI integration</p>
-    </td>
-    <td width="30%">
-      <h4><a href="https://github.com/pgeedh/krabby-robot">Krabby Robot</a></h4>
-      <img src="https://img.shields.io/badge/Underwater-0077B5?logo=water">
-      <img src="https://img.shields.io/badge/Ultrasonic-yellow">
-      <p>Pipeline inspection with corrosion detection</p>
-    </td>
-  </tr>
-</table>
-
-
-<!-- Footer -->
+### 🚀 Key Projects
 <div align="center">
-  <p>⚡ <em>"Transforming mechanical systems into intelligent autonomous solutions"</em></p>
-  <img src="https://img.shields.io/badge/Open_to-Robotics%20Projects%20|%20Research%20Collaborations%20|%20Tech%20Consulting-0088cc?style=for-the-badge&logo=handshake">
+  <table width="100%">
+    <tr align="center">
+      <td width="33%">
+        <img src="https://img.icons8.com/wired/64/58A6FF/radar.png" width="40"><br/>
+        <h4><a href="https://github.com/pgeedh/sentrymax-slam">SentryMax SLAM</a></h4>
+        <p><small>ROS2 LiDAR Navigation Stack<br/>+25% Precision</small></p>
+      </td>
+      <td width="33%">
+        <img src="https://img.icons8.com/wired/64/58A6FF/bicycle.png" width="40"><br/>
+        <h4><a href="https://github.com/pgeedh/vision-bike-fitting">Vision Bike Fit</a></h4>
+        <p><small>Biomechanical Analysis<br/>OpenCV & MediaPipe</small></p>
+      </td>
+      <td width="33%">
+        <img src="https://img.icons8.com/wired/64/58A6FF/robot-vacuum.png" width="40"><br/>
+        <h4><a href="https://github.com/pgeedh/krabby-robot">Krabby Robot</a></h4>
+        <p><small>Autonomous Underwater Bot<br/>Corrosion Detection</small></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <p><em>"Building the eyes and brains of the next generation of robots."</em></p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
