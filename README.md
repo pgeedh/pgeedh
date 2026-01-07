@@ -1,34 +1,33 @@
 <div align="center">
   <img src="assets/professional_banner.png" width="100%" alt="Perception Cognition Action Banner">
 
-  <h1 style="margin-bottom: 0px;">PRUTHVI OMKAR GEEDH</h1>
-  <p>
+  <h1 style="margin-bottom: 5px; margin-top: 10px;">PRUTHVI OMKAR GEEDH</h1>
+  <p style="line-height: 1.2;">
     <samp>
-      <b>ROBOTICS & PERCEPTION ARCHITECT</b><br/>
-      <i>Architecting the visual cortex of autonomous systems.</i>
+      <b>ROBOTICS & EMBODIED AI</b><br/>
+      <i>Engineering intelligent systems that perceive, reason, and act.</i>
     </samp>
   </p>
 
-  <p align="center">
-    <a href="https://ori.ox.ac.uk/"><img src="assets/oxford_logo.png" height="35" alt="Oxford Robotics Institute"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.bristolroboticslab.com/"><img src="assets/BRL_Logo_Main-1920w.webp" height="30" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.bristol.ac.uk/"><img src="assets/university-of-bristol-logo-png_seeklogo-145952.png" height="35" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.rca.ac.uk/"><img src="assets/rca_logo.png" height="35" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://mu.ac.in/"><img src="assets/images.jpeg" height="35" alt="University of Mumbai"/></a>
+  <p align="center" style="margin-top: 15px; margin-bottom: 15px;">
+    <a href="https://www.bristolroboticslab.com/"><img src="assets/brl_logo.png" height="28" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;
+    <a href="http://www.bristol.ac.uk/"><img src="assets/bristol_logo.png" height="32" alt="University of Bristol"/></a>&nbsp;&nbsp;
+    <a href="https://www.rca.ac.uk/"><img src="assets/rca_logo.png" height="32" alt="Royal College of Art"/></a>&nbsp;&nbsp;
+    <a href="https://mu.ac.in/"><img src="assets/mumbai_logo.png" height="32" alt="University of Mumbai"/></a>
   </p>
 
   <p>
     <a href="https://linkedin.com/in/pruthvigeedh">
-      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="22"/>
     </a>
     <a href="https://pruthvigeedh.com">
-      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=framer&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=framer&logoColor=white" height="22"/>
     </a>
     <a href="mailto:geedhpruthvi@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" height="22"/>
     </a>
     <a href="https://github.com/pgeedh">
-      <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" height="22"/>
     </a>
   </p>
 </div>
@@ -36,71 +35,73 @@
 <br/>
 
 <div align="center">
-  <h3>:: SYSTEM ARCHITECTURE ::</h3>
+  <h3>:: TECHNICAL ARSENAL ::</h3>
 </div>
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <thead>
     <tr>
-      <th width="33%" align="center">
-        <img src="https://img.icons8.com/ios-filled/50/000000/visible.png" width="20" style="vertical-align:middle; filter: invert(1);"/> PERCEPTION<br>
-        <sub><i>"The Eyes"</i></sub>
+      <th width="33%" align="center" style="padding-bottom: 10px;">
+        <img src="https://img.icons8.com/ios-filled/50/000000/visible.png" width="18" style="vertical-align:middle; filter: invert(1);"/> PERCEPTION
       </th>
-      <th width="33%" align="center">
-        <img src="https://img.icons8.com/ios-filled/50/000000/brain.png" width="20" style="vertical-align:middle; filter: invert(1);"/> COGNITION<br>
-        <sub><i>"The Brain"</i></sub>
+      <th width="33%" align="center" style="padding-bottom: 10px;">
+        <img src="https://img.icons8.com/ios-filled/50/000000/brain.png" width="18" style="vertical-align:middle; filter: invert(1);"/> COGNITION
       </th>
-      <th width="33%" align="center">
-        <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" width="20" style="vertical-align:middle; filter: invert(1);"/> ACTION<br>
-        <sub><i>"The Body"</i></sub>
+      <th width="33%" align="center" style="padding-bottom: 10px;">
+        <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" width="18" style="vertical-align:middle; filter: invert(1);"/> ACTION
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/YOLO11-white?style=flat-square&logo=ultralytics&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&logoColor=black"/>
         <br>
         <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&logoColor=black"/>
-        <img src="https://img.shields.io/badge/YOLO_v8-white?style=flat-square&logo=ultralytics&logoColor=black"/>
         <img src="https://img.shields.io/badge/TensorFlow-white?style=flat-square&logo=tensorflow&logoColor=black"/>
-        <img src="https://img.shields.io/badge/LiDAR_SLAM-white?style=flat-square&logo=googlemaps&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Point_Cloud-white?style=flat-square"/>
+        <br>
+        <img src="https://img.shields.io/badge/Open3D-white?style=flat-square&logo=python&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CUDA-white?style=flat-square&logo=nvidia&logoColor=black"/>
         <br><br>
-        <code>VISUAL_INTELLIGENCE</code>
+        <code>SPATIAL_AI</code>
       </td>
       <td valign="top" align="center">
-        <br>
         <img src="https://img.shields.io/badge/ROS_2-black?style=flat-square&logo=ros&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++_17-black?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux_Kernel-black?style=flat-square&logo=linux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CMake-black?style=flat-square&logo=cmake&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nav2-black?style=flat-square&logo=ros&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Google_DeepMind-black?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NVIDIA_AI-black?style=flat-square&logo=nvidia&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/C++_20-black?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white"/>
         <br><br>
         <code>DECISION_MAKING</code>
       </td>
       <td valign="top" align="center">
+        <img src="https://img.shields.io/badge/ISAAC_SIM-white?style=flat-square&logo=nvidia&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Foxglove-white?style=flat-square&logo=googlechrome&logoColor=black"/>
         <br>
-        <img src="https://img.shields.io/badge/PX4_Autopilot-white?style=flat-square&logo=drone&logoColor=black"/>
-        <img src="https://img.shields.io/badge/NVIDIA_Jetson-white?style=flat-square&logo=nvidia&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Arduino-white?style=flat-square&logo=arduino&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PX4-white?style=flat-square&logo=drone&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Gazebo-white?style=flat-square&logo=gazebo&logoColor=black"/>
+        <br>
+        <img src="https://img.shields.io/badge/Jetson_Orin-white?style=flat-square&logo=nvidia&logoColor=black"/>
         <img src="https://img.shields.io/badge/Raspberry_Pi-white?style=flat-square&logo=raspberrypi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Gazebo_Sim-white?style=flat-square&logo=gazebo&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SolidWorks-white?style=flat-square"/>
         <br><br>
-        <code>PHYSICAL_CONTROL</code>
+        <code>SIM_2_REAL</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-<br/>
+<br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgeedh&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <p align="center">
-    <small>[ Zipline, DroneDelivery, Logistics, Robotics, PhysicalAI, FutureTech, Automation, Engineering ]</small>
-  </p>
+  <samp>
+    :: SYSTEM STATUS: <span style="color: #00ff00;">ONLINE</span> ::
+  </samp>
+  <br/><br/>
+  <a href="https://topmate.io/pruthvi_geedh/1217335?utm_source=public_profile&utm_campaign=pruthvi_geedh">
+    <img src="https://img.shields.io/badge/BOOK_COLLABORATION_CALL-000000?style=for-the-badge&logo=googlemeet&logoColor=white" height="35"/>
+  </a>
 </div>
