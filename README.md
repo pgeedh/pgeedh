@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/professional_banner.png" width="100%" alt="Perception Cognition Action Banner">
+  <img src="assets/professional_banner.png" width="100%" alt="Perception Cognition Action Banner">
 
   <h1 style="margin-bottom: 5px; margin-top: 15px;">PRUTHVI OMKAR GEEDH</h1>
   <p style="line-height: 1.2;">
@@ -10,10 +10,10 @@
   </p>
 
   <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/brl_logo.png" height="26" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/bristol_logo.png" height="30" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.png" height="30" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.png" height="30" alt="University of Mumbai"/></a>
+    <a href="https://www.bristolroboticslab.com/"><img src="assets/brl_logo.png" height="26" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="http://www.bristol.ac.uk/"><img src="assets/bristol_logo.png" height="30" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.rca.ac.uk/"><img src="assets/rca_logo.png" height="30" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://mu.ac.in/"><img src="assets/mumbai_logo.png" height="30" alt="University of Mumbai"/></a>
   </p>
 
   <p>
@@ -107,6 +107,6 @@
   <br/>
 
   <a href="https://topmate.io/pruthvi_geedh/1217335?utm_source=public_profile&utm_campaign=pruthvi_geedh">
-    <img src="https://img.shields.io/badge/BOOK_COLLABORATION_CALL-000000?style=for-the-badge&logo=googlemeet&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/BOOK_COLLABORATION_CALL-007AB8?style=for-the-badge&logo=googlemeet&logoColor=white" height="38"/>
   </a>
 </div>
