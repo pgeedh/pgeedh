@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/professional_banner.png" width="100%" alt="Perception Cognition Action Banner">
 
-  <h1 style="margin-bottom: 5px; margin-top: 15px;">PRUTHVI OMKAR GEEDH</h1>
+  <h1 style="margin-bottom: 5px; margin-top: 10px;">PRUTHVI OMKAR GEEDH</h1>
   <p style="line-height: 1.2;">
     <samp>
       <b>ROBOTICS & EMBODIED AI</b><br/>
@@ -9,14 +9,14 @@
     </samp>
   </p>
 
-  <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" height="26" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol.png" height="30" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.jpeg" height="30" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.jpeg" height="30" alt="University of Mumbai"/></a>
+  <p align="center" style="margin-top: 15px; margin-bottom: 15px;">
+    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" height="32" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol.png" height="32" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.jpeg" height="32" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.jpeg" height="32" alt="University of Mumbai"/></a>
   </p>
 
-  <p>
+  <p style="margin-bottom: 25px;">
     <a href="https://linkedin.com/in/pruthvigeedh">
       <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="24"/>
     </a>
@@ -32,29 +32,27 @@
   </p>
 </div>
 
-<br/>
-
 <div align="center">
   <h3>:: TECHNICAL ARSENAL ::</h3>
 </div>
 
-<table align="center" style="border-collapse: separate; border-spacing: 10px; border: none; width: 100%;">
+<table align="center" style="border-collapse: separate; border-spacing: 0px; border: none; width: 100%;">
   <thead>
     <tr>
-      <th width="33%" align="center" style="padding-bottom: 15px;">
+      <th width="33%" align="center" style="padding-bottom: 10px;">
         <img src="https://img.icons8.com/ios-filled/50/000000/visible.png" width="20" style="vertical-align:middle; filter: invert(1);"/> PERCEPTION
       </th>
-      <th width="33%" align="center" style="padding-bottom: 15px;">
+      <th width="33%" align="center" style="padding-bottom: 10px;">
         <img src="https://img.icons8.com/ios-filled/50/000000/brain.png" width="20" style="vertical-align:middle; filter: invert(1);"/> COGNITION
       </th>
-      <th width="33%" align="center" style="padding-bottom: 15px;">
+      <th width="33%" align="center" style="padding-bottom: 10px;">
         <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" width="20" style="vertical-align:middle; filter: invert(1);"/> ACTION
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top" align="center">
+      <td valign="top" align="center" style="padding: 10px;">
         <img src="https://img.shields.io/badge/YOLO11-white?style=flat-square&logo=ultralytics&logoColor=black"/>
         <img src="https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&logoColor=black"/>
         <br/><br/>
@@ -66,7 +64,7 @@
         <br/><br/>
         <code>SPATIAL_AI</code>
       </td>
-      <td valign="top" align="center">
+      <td valign="top" align="center" style="padding: 10px;">
         <img src="https://img.shields.io/badge/ROS_2-black?style=flat-square&logo=ros&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nav2-black?style=flat-square&logo=ros&logoColor=white"/>
         <br/><br/>
@@ -78,7 +76,7 @@
         <br/><br/>
         <code>DECISION_MAKING</code>
       </td>
-      <td valign="top" align="center">
+      <td valign="top" align="center" style="padding: 10px;">
         <img src="https://img.shields.io/badge/ISAAC_SIM-white?style=flat-square&logo=nvidia&logoColor=black"/>
         <img src="https://img.shields.io/badge/Foxglove-white?style=flat-square&logo=googlechrome&logoColor=black"/>
         <br/><br/>
@@ -94,12 +92,12 @@
   </tbody>
 </table>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <p>
     <samp>
-      🔭 <b>CURRENT RESEARCH FOCUS:</b><br/>
+      <b>CURRENT RESEARCH FOCUS:</b><br/>
       Vision-Language-Action (VLA) Models &nbsp;•&nbsp; Sim-to-Real Transfer &nbsp;•&nbsp; Foundation Models for Robotics
     </samp>
   </p>
