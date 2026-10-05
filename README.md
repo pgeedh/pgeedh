@@ -35,16 +35,44 @@ Day to day I scale robot learning infrastructure at Neuracore. Before that: robo
   <a href="https://www.linkedin.com/company/arthe/"><img src="https://img.shields.io/badge/JOIN_ARTH%C3%89_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="Join ARTHÉ on LinkedIn"/></a>
 </div>
 
-## Featured work
+## Highlights
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**NintAi**](https://github.com/pgeedh/NintAi-The-AI-Powered-Bike-Fit-Studio) ⭐ 22 | Bio-mechanical bike-fit analysis: pose tracking plus AI-written fit reports | YOLO11 · Gemini |
-| [**Gemma-Sense**](https://github.com/pgeedh/Gemma-Sense-Contextual_Model) | Hybrid edge-cloud vision-language system for semantic grounding in robot perception | PaliGemma 2 · Gemini |
-| [**WorldLab Robotics Examples**](https://github.com/pgeedh/WorldLab-RoboticsExamples) | Examples bridging generative AI and embodied intelligence | Python · Simulation |
-| [**Open-ENPIRE-Gripper**](https://github.com/pgeedh/Open-ENPIRE-Gripper) | Open design of NVIDIA's ENPIRE compliant gripper for other robot arms | Hardware · CAD |
-| [**humanoid-mujoco**](https://github.com/pgeedh/humanoid-mujoco) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics | MuJoCo |
-| [**UPenn Robotics Specialization**](https://github.com/pgeedh/RoboticsSpecialization-UPenn-AerialRobotics) ⭐ 26 | Aerial robotics, perception, estimation, planning and mobility coursework | MATLAB · Python |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pgeedh/GeminiRobotics-InsightHub">Gemini Robotics Playbook</a></h3>
+      <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
+      A developer cookbook for Google DeepMind's Gemini Robotics: 31 prompt cards for spatial grounding, grasping, motion planning and safety, a ROS 2 bridge, and the official benchmarks. Translated into 4 languages.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
+      <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
+      Open pull requests to Hugging Face's LeRobot evaluation pipeline: persisting recorded datasets across batched evals and adding provenance metadata to eval results. Also contributing fixes to VLA-Adapter.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pgeedh/NintAi-The-AI-Powered-Bike-Fit-Studio">NintAi</a> ⭐ 22</h3>
+      <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
+      A bike-fit studio on your laptop. YOLO11 tracks your pose while you pedal, and Gemini writes an expert-level fit report from the biomechanics.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pgeedh/Gemma-Sense-Contextual_Model">GemmaSense</a></h3>
+      <sub><b>PaliGemma 2 · Gemini · edge + cloud</b></sub><br/><br/>
+      A hybrid vision-language brain for robots. A quantized PaliGemma 2 runs on-device, and the system escalates to Gemini in the cloud when confidence drops, so a kitchen robot can make sense of a workshop.
+    </td>
+  </tr>
+</table>
+
+## More projects
+
+| Project | What it does |
+|---|---|
+| [**Open-ENPIRE-Gripper**](https://github.com/pgeedh/Open-ENPIRE-Gripper) | Open design of NVIDIA's ENPIRE compliant gripper, adapted to other robot arms (Robotiq Hand-E, OpenArm) |
+| [**WorldLab Robotics Examples**](https://github.com/pgeedh/WorldLab-RoboticsExamples) | Photorealistic digital-twin environments for robot training, generated with World Labs |
+| [**Reachy-Mini · Gemini + PersonaPlex**](https://github.com/pgeedh/Reachy-Mini-Gemini-PersonaPlex-Edition) | An empathetic desktop robot with Gemini vision, voice wake-words and 15+ physical expressions |
+| [**humanoid-mujoco**](https://github.com/pgeedh/humanoid-mujoco) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics |
+| [**UPenn Robotics Specialization**](https://github.com/pgeedh/RoboticsSpecialization-UPenn-AerialRobotics) ⭐ 26 | Aerial robotics, perception, estimation, planning and mobility coursework |
 
 ## Toolbox
 
