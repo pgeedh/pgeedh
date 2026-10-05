@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/professional_banner.png" width="100%" alt="Perception, Cognition, Action">
-
   <img src="assets/hero.svg" width="100%" alt="Pruthvi Omkar Geedh, Robotics and Physical AI. I build robot learning pipelines, perception, sim-to-real and open-source tools."/>
 
   <p>
@@ -15,15 +13,13 @@
 
 ## About
 
-I'm a robotics developer. I like the part where a model leaves the notebook and has to survive a real robot. I also founded [ARTHÉ](https://www.linkedin.com/company/arthe/), an open-source robotics community.
+I'm a robotics developer. I like the part where a model leaves the notebook and has to survive a real robot. I also founded ARTHÉ, an open-source robotics community.
 
 <div align="center">
   <a href="https://www.linkedin.com/company/arthe/"><img src="https://img.shields.io/badge/JOIN_ARTH%C3%89_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="Join ARTHÉ on LinkedIn"/></a>
 </div>
 
 ## Highlights
-
-Each project sits on the loop I work in: **perception** sees, **cognition** reasons, **action** moves.
 
 <table>
   <tr>
@@ -63,16 +59,6 @@ Each project sits on the loop I work in: **perception** sees, **cognition** reas
 | [**Reachy-Mini · Gemini + PersonaPlex**](https://github.com/pgeedh/Reachy-Mini-Gemini-PersonaPlex-Edition) | An empathetic desktop robot with Gemini vision, voice wake-words and 15+ physical expressions |
 | [**humanoid-mujoco**](https://github.com/pgeedh/humanoid-mujoco) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics |
 | [**UPenn Robotics Specialization**](https://github.com/pgeedh/RoboticsSpecialization-UPenn-AerialRobotics) ⭐ 26 | Aerial robotics, perception, estimation, planning and mobility coursework |
-
-</details>
-
-<details>
-<summary><b>Toolbox</b></summary>
-<br/>
-
-| Perception | Cognition | Action |
-|---|---|---|
-| PyTorch · TensorFlow · OpenCV · YOLO11 · Open3D · CUDA | ROS 2 · Nav2 · Hugging Face LeRobot / VLA · NVIDIA AI · Linux | Isaac Sim · MuJoCo · Gazebo · PX4 · Jetson Orin · Raspberry Pi · Foxglove |
 
 </details>
 
