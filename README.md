@@ -5,10 +5,18 @@
     <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/></a>
     <a href="https://linkedin.com/in/pruthvigeedh"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://pruthvigeedh.substack.com"><img src="https://img.shields.io/badge/Newsletter-0A0A0A?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
+    <a href="https://www.neuracore.com/"><img src="https://img.shields.io/badge/Neuracore-0A0A0A?style=for-the-badge" alt="Neuracore platform"/></a>
     <a href="https://x.com/pgeedh99"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   </p>
 
-  <img src="assets/affiliations.svg" width="100%" alt="Neuracore · Royal College of Art Robotics Lab · Bristol Robotics Lab · University of Bristol · University of Mumbai"/>
+  <table><tr>
+    <td align="center" width="20%"><a href="https://www.neuracore.com/"><img src="assets/logo-neuracore.svg" width="100%" alt="Neuracore"/></a></td>
+    <td align="center" width="20%"><a href="https://www.rca.ac.uk/research-innovation/research-centres/rca-robotics-laboratory/"><img src="assets/logo-rca.svg" width="100%" alt="RCA Robotics Lab"/></a></td>
+    <td align="center" width="20%"><a href="https://www.bristolroboticslab.com/"><img src="assets/logo-brl.svg" width="100%" alt="Bristol Robotics Lab"/></a></td>
+    <td align="center" width="20%"><a href="https://www.bristol.ac.uk/"><img src="assets/logo-bristol.svg" width="100%" alt="Univ. of Bristol"/></a></td>
+    <td align="center" width="20%"><a href="https://mu.ac.in/"><img src="assets/logo-mumbai.svg" width="100%" alt="Univ. of Mumbai"/></a></td>
+  </tr></table>
+
 </div>
 
 ## About
