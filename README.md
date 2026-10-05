@@ -52,7 +52,9 @@ Each project sits on the loop I work in: **perception** sees, **cognition** reas
   </tr>
 </table>
 
-## More projects
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
 | Project | What it does |
 |---|---|
@@ -62,11 +64,17 @@ Each project sits on the loop I work in: **perception** sees, **cognition** reas
 | [**humanoid-mujoco**](https://github.com/pgeedh/humanoid-mujoco) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics |
 | [**UPenn Robotics Specialization**](https://github.com/pgeedh/RoboticsSpecialization-UPenn-AerialRobotics) ⭐ 26 | Aerial robotics, perception, estimation, planning and mobility coursework |
 
-## Toolbox
+</details>
+
+<details>
+<summary><b>Toolbox</b></summary>
+<br/>
 
 | Perception | Cognition | Action |
 |---|---|---|
 | PyTorch · TensorFlow · OpenCV · YOLO11 · Open3D · CUDA | ROS 2 · Nav2 · Hugging Face LeRobot / VLA · NVIDIA AI · Linux | Isaac Sim · MuJoCo · Gazebo · PX4 · Jetson Orin · Raspberry Pi · Foxglove |
+
+</details>
 
 ## Work with me
 
