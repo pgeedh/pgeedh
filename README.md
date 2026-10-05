@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Pruthvi Omkar Geedh, Robotics and Physical AI. I build robot learning pipelines, perception, sim-to-real and open-source tools."/>
+  <img src="assets/hero.svg" width="100%" alt="Pruthvi Geedh. Robotics engineer building the deployment layer for physical AI."/>
 
   <p>
-    <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://linkedin.com/in/pruthvigeedh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://pruthvigeedh.substack.com"><img src="https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
-    <a href="https://x.com/pgeedh99"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/pruthvigeedh"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://pruthvigeedh.substack.com"><img src="https://img.shields.io/badge/Newsletter-0A0A0A?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
+    <a href="https://x.com/pgeedh99"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   </p>
 
   <img src="assets/affiliations.svg" width="100%" alt="Neuracore · Royal College of Art Robotics Lab · Bristol Robotics Lab · University of Bristol · University of Mumbai"/>
@@ -13,10 +13,12 @@
 
 ## About
 
-I'm a robotics developer. I like the part where a model leaves the notebook and has to survive a real robot. I also founded ARTHÉ, an open-source robotics community.
+Physical AI is advancing fast, but almost none of it reaches a real factory floor. The gap between a model that works in simulation and a robot that works in production is where I work: VLA models, world models, SLAM and navigation. I lead solutions engineering at Neuracore and founded ARTHÉ, an open-source robotics community.
+
+No hype: real deployments, real failures, and what I learned fixing them.
 
 <div align="center">
-  <a href="https://www.linkedin.com/company/arthe/"><img src="https://img.shields.io/badge/JOIN_ARTH%C3%89_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="Join ARTHÉ on LinkedIn"/></a>
+  <a href="https://www.linkedin.com/company/arthe/"><img src="https://img.shields.io/badge/JOIN_ARTH%C3%89_ON_LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="Join ARTHÉ on LinkedIn"/></a>
 </div>
 
 ## Highlights
@@ -25,24 +27,24 @@ I'm a robotics developer. I like the part where a model leaves the notebook and 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pgeedh/GeminiRobotics-InsightHub">Gemini Robotics Playbook</a></h3>
-      <img src="https://img.shields.io/badge/COGNITION-0b0b0f?style=flat-square" alt="COGNITION"/> <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/COGNITION-0A0A0A?style=flat-square" alt="COGNITION"/> <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
       A developer cookbook for Google DeepMind's Gemini Robotics: 31 prompt cards for spatial grounding, grasping, motion planning and safety, a ROS 2 bridge, and the official benchmarks. Translated into 4 languages.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
-      <img src="https://img.shields.io/badge/COGNITION-0b0b0f?style=flat-square" alt="COGNITION"/> <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/COGNITION-0A0A0A?style=flat-square" alt="COGNITION"/> <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
       Open pull requests to Hugging Face's LeRobot evaluation pipeline: persisting recorded datasets across batched evals and adding provenance metadata to eval results. Also contributing fixes to VLA-Adapter.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pgeedh/NintAi-The-AI-Powered-Bike-Fit-Studio">NintAi</a> ⭐ 22</h3>
-      <img src="https://img.shields.io/badge/PERCEPTION-0b0b0f?style=flat-square" alt="PERCEPTION"/> <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/PERCEPTION-0A0A0A?style=flat-square" alt="PERCEPTION"/> <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
       A bike-fit studio on your laptop. YOLO11 tracks your pose while you pedal, and Gemini writes an expert-level fit report from the biomechanics.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pgeedh/Gemma-Sense-Contextual_Model">GemmaSense</a></h3>
-      <img src="https://img.shields.io/badge/PERCEPTION-0b0b0f?style=flat-square" alt="PERCEPTION"/> <sub><b>PaliGemma 2 · Gemini · edge + cloud</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/PERCEPTION-0A0A0A?style=flat-square" alt="PERCEPTION"/> <sub><b>PaliGemma 2 · Gemini · edge + cloud</b></sub><br/><br/>
       A hybrid vision-language brain for robots. A quantized PaliGemma 2 runs on-device, and the system escalates to Gemini in the cloud when confidence drops, so a kitchen robot can make sense of a workshop.
     </td>
   </tr>
@@ -67,6 +69,6 @@ I'm a robotics developer. I like the part where a model leaves the notebook and 
 Research collaboration, talks and partnerships, or a mentoring call.
 
 <div align="center">
-  <a href="https://topmate.io/pruthvi_geedh/1217335?utm_source=public_profile&utm_campaign=pruthvi_geedh"><img src="https://img.shields.io/badge/BOOK_A_CALL-007AB8?style=for-the-badge&logo=googlemeet&logoColor=white" height="38" alt="Book a call"/></a>
-  <a href="mailto:geedhpruthvi@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-000000?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email me"/></a>
+  <a href="https://topmate.io/pruthvi_geedh/1217335?utm_source=public_profile&utm_campaign=pruthvi_geedh"><img src="https://img.shields.io/badge/BOOK_A_CALL-0A0A0A?style=for-the-badge&logo=googlemeet&logoColor=white" height="38" alt="Book a call"/></a>
+  <a href="mailto:geedhpruthvi@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email me"/></a>
 </div>
