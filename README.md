@@ -1,13 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/professional_banner.png" width="100%" alt="Perception, Cognition, Action">
 
-  <h1>Pruthvi Omkar Geedh</h1>
-
-  <p>
-    <b>Robotics &amp; Physical AI Researcher</b><br/>
-    Scaling robot learning infrastructure at <a href="https://www.neuracore.com/">Neuracore</a> · London<br/>
-    <i>Building systems that perceive, reason, and act.</i>
-  </p>
+  <img src="assets/hero.svg" width="100%" alt="Pruthvi Omkar Geedh, Robotics and Physical AI. I build robot learning pipelines, perception, sim-to-real and open-source tools."/>
 
   <p>
     <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/></a>
@@ -37,28 +31,30 @@ Day to day I scale robot learning infrastructure at Neuracore. Before that: robo
 
 ## Highlights
 
+Each project sits on the loop I work in: **perception** sees, **cognition** reasons, **action** moves.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pgeedh/GeminiRobotics-InsightHub">Gemini Robotics Playbook</a></h3>
-      <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/COGNITION-0b0b0f?style=flat-square" alt="COGNITION"/> <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
       A developer cookbook for Google DeepMind's Gemini Robotics: 31 prompt cards for spatial grounding, grasping, motion planning and safety, a ROS 2 bridge, and the official benchmarks. Translated into 4 languages.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
-      <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/COGNITION-0b0b0f?style=flat-square" alt="COGNITION"/> <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
       Open pull requests to Hugging Face's LeRobot evaluation pipeline: persisting recorded datasets across batched evals and adding provenance metadata to eval results. Also contributing fixes to VLA-Adapter.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pgeedh/NintAi-The-AI-Powered-Bike-Fit-Studio">NintAi</a> ⭐ 22</h3>
-      <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/PERCEPTION-0b0b0f?style=flat-square" alt="PERCEPTION"/> <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
       A bike-fit studio on your laptop. YOLO11 tracks your pose while you pedal, and Gemini writes an expert-level fit report from the biomechanics.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pgeedh/Gemma-Sense-Contextual_Model">GemmaSense</a></h3>
-      <sub><b>PaliGemma 2 · Gemini · edge + cloud</b></sub><br/><br/>
+      <img src="https://img.shields.io/badge/PERCEPTION-0b0b0f?style=flat-square" alt="PERCEPTION"/> <sub><b>PaliGemma 2 · Gemini · edge + cloud</b></sub><br/><br/>
       A hybrid vision-language brain for robots. A quantized PaliGemma 2 runs on-device, and the system escalates to Gemini in the cloud when confidence drops, so a kitchen robot can make sense of a workshop.
     </td>
   </tr>

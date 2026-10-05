@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<defs><pattern id="d" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#30363d"/></pattern>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#0b0b0f" stop-opacity="0"/><stop offset="1" stop-color="#0b0b0f"/></linearGradient></defs>
+<rect width="1000" height="330" rx="18" fill="#0b0b0f"/><rect width="1000" height="330" rx="18" fill="url(#d)"/>
+<text x="64" y="86" font-size="46" font-weight="700" fill="#ffffff" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">Pruthvi Omkar Geedh</text>
+<text x="64" y="122" font-size="15" fill="#8b949e" letter-spacing="1">ROBOTICS &amp; PHYSICAL AI · NEURACORE · LONDON</text>
+<text x="64" y="196" font-size="26" fill="#f0f6fc" opacity="1">I build <tspan fill="#58a6ff">robot learning pipelines that scale</tspan><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.230;0.250;1" dur="16s" repeatCount="indefinite"/></text><text x="64" y="196" font-size="26" fill="#f0f6fc" opacity="0">I build <tspan fill="#58a6ff">perception that runs on the robot</tspan><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.250;0.270;0.480;0.500;1" dur="16s" repeatCount="indefinite"/></text><text x="64" y="196" font-size="26" fill="#f0f6fc" opacity="0">I build <tspan fill="#58a6ff">sim-to-real, from MuJoCo to metal</tspan><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.500;0.520;0.730;0.750;1" dur="16s" repeatCount="indefinite"/></text><text x="64" y="196" font-size="26" fill="#f0f6fc" opacity="0">I build <tspan fill="#58a6ff">open-source tools for physical AI</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.750;0.770;1" dur="16s" repeatCount="indefinite"/></text>
+<path id="p" d="M180 268 H820" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<circle cx="180" cy="268" r="16" fill="#0b0b0f" stroke="#f0f6fc" stroke-width="2"/>
+<circle cx="180" cy="268" r="6" fill="#58a6ff"><animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="180" y="310" text-anchor="middle" font-size="12" letter-spacing="3" fill="#8b949e">PERCEPTION</text><circle cx="500" cy="268" r="16" fill="#0b0b0f" stroke="#f0f6fc" stroke-width="2"/>
+<circle cx="500" cy="268" r="6" fill="#58a6ff"><animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="500" y="310" text-anchor="middle" font-size="12" letter-spacing="3" fill="#8b949e">COGNITION</text><circle cx="820" cy="268" r="16" fill="#0b0b0f" stroke="#f0f6fc" stroke-width="2"/>
+<circle cx="820" cy="268" r="6" fill="#58a6ff"><animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="820" y="310" text-anchor="middle" font-size="12" letter-spacing="3" fill="#8b949e">ACTION</text>
+<circle r="5" fill="#58a6ff"><animateMotion dur="4s" repeatCount="indefinite" path="M180 268 H820"/></circle>
+<circle r="5" fill="#58a6ff" opacity=".4"><animateMotion dur="4s" begin="-0.25s" repeatCount="indefinite" path="M180 268 H820"/></circle>
+</svg>
