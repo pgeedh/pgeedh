@@ -29,21 +29,7 @@ No hype: real deployments, real failures, and what I learned fixing them.
 </div>
 
 <div align="center">
-
-<details>
-<summary><img src="assets/play-humanoid.svg" width="100%" alt="Try the robots: a Unitree G1 humanoid, a bimanual Franka and a Husky on Mars, in real MuJoCo physics. Click to expand."/></summary>
-
-<br/>
-
-<img src="assets/play-preview.gif" width="100%" alt="Preview of the three missions: G1 walking to the dishwasher, two Franka arms stacking cubes, a Husky rover crossing Mars"/>
-
-**Three robots, three scored missions.** A Unitree G1 loads a dishwasher, two Franka arms stack cubes, and a Clearpath Husky drives a Mars sample-return route from a map. Every run is timed and scored, with seeds and a JSON export, so it works as a small benchmark.
-
-<a href="https://mujoco-playground-alpha.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_PLAY_FULL_SCREEN-0A0A0A?style=for-the-badge" alt="Play full screen"/></a>
-<a href="https://github.com/pgeedh/mujoco-playground"><img src="https://img.shields.io/badge/SOURCE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"/></a>
-
-</details>
-
+  <a href="https://mujoco-playground-alpha.vercel.app"><img src="assets/play-humanoid.svg" width="100%" alt="Can you operate robots? 3 missions, 3 tasks: a nuclear plant leak with a humanoid, a biohazard lab with two Franka arms, a Mars sample return with a Husky rover. Click to play."/></a>
 </div>
 
 ## Highlights
