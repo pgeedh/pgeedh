@@ -17,28 +17,22 @@
     <a href="mailto:geedhpruthvi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  <p>
-    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" height="46" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol.png" height="46" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.jpeg" height="46" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.jpeg" height="46" alt="University of Mumbai"/></a>
-  </p>
+  <img src="assets/affiliations.svg" width="100%" alt="Neuracore · Royal College of Art Robotics Lab · Bristol Robotics Lab · University of Bristol · University of Mumbai"/>
 </div>
 
-## About
+## What I love to build
 
-I work on **vision-language-action models, sim-to-real transfer and foundation models for robotics**. Day to day that means robot learning infrastructure at Neuracore. Before that I did robotics research at the **Royal College of Art** and the **Bristol Robotics Lab**, and an MSc in Robotics at the **University of Bristol** (SLAM dissertation).
+I'm a robotics developer. I like the part where a model leaves the notebook and has to survive a real robot.
 
-I also run **ARTHÉ**, an open-source robotics community, and write about physical AI for a global audience.
+- **Robot learning pipelines**: data collection, training and deployment for VLA and imitation-learning policies (Neuracore, LeRobot).
+- **Perception that runs on the robot**: detection, pose and SLAM running on Jetson-class hardware in real time.
+- **Sim-to-real**: humanoids and arms trained in MuJoCo and Isaac Sim, then pushed onto hardware.
+- **Open-source tools and hardware** that make physical AI easier to get into, like the ENPIRE gripper and the [ARTHÉ](https://www.linkedin.com/company/arthe/) community I founded.
 
-## Reach
+Day to day I scale robot learning infrastructure at Neuracore. Before that: robotics research at the Royal College of Art and the Bristol Robotics Lab, and an MSc in Robotics at Bristol (SLAM dissertation).
 
 <div align="center">
-
-| 42K+ | 2M+ | 5K+ | 12K+ | 10+ | 342 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| total audience | impressions | newsletter readers | ARTHÉ community members | talks and stages | mentoring sessions, 5/5 on Topmate |
-
+  <a href="https://www.linkedin.com/company/arthe/"><img src="https://img.shields.io/badge/JOIN_ARTH%C3%89_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="Join ARTHÉ on LinkedIn"/></a>
 </div>
 
 ## Featured work
@@ -60,7 +54,7 @@ I also run **ARTHÉ**, an open-source robotics community, and write about physic
 
 ## Work with me
 
-- **Brand and community partnerships**: sponsored content, talks, workshops, newsletter features. See the [media kit on my site](https://pruthvigeedh.com).
+- **Partnerships and talks**: workshops, technical content and community collaborations. Details on [my site](https://pruthvigeedh.com).
 - **Mentoring and career calls**: [book on Topmate](https://topmate.io/pruthvi_geedh/1217335?utm_source=public_profile&utm_campaign=pruthvi_geedh)
 - **Research collaboration**: VLA models, sim-to-real, robot learning data and infrastructure. Email me.
 
