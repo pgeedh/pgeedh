@@ -29,7 +29,7 @@ No hype: real deployments, real failures, and what I learned fixing them.
 </div>
 
 <div align="center">
-  <a href="https://pgeedh.github.io/humanoid-mujoco/"><img src="assets/play-humanoid.svg" width="100%" alt="Play the humanoid: a Unitree G1 in MuJoCo physics, running in your browser"/></a>
+  <a href="https://mujoco-playground-alpha.vercel.app"><img src="assets/play-humanoid.svg" width="100%" alt="Play the humanoid: a Unitree G1 in MuJoCo physics, running in your browser"/></a>
 </div>
 
 ## Highlights
