@@ -29,7 +29,21 @@ No hype: real deployments, real failures, and what I learned fixing them.
 </div>
 
 <div align="center">
-  <a href="https://mujoco-playground-alpha.vercel.app"><img src="assets/play-humanoid.svg" width="100%" alt="Play the humanoid: a Unitree G1 in MuJoCo physics, running in your browser"/></a>
+
+<details>
+<summary><img src="assets/play-humanoid.svg" width="100%" alt="Try the robots: a Unitree G1 humanoid, a bimanual Franka and a Husky on Mars, in real MuJoCo physics. Click to expand."/></summary>
+
+<br/>
+
+<img src="assets/play-preview.gif" width="100%" alt="Preview of the three missions: G1 walking to the dishwasher, two Franka arms stacking cubes, a Husky rover crossing Mars"/>
+
+**Three robots, three scored missions.** A Unitree G1 loads a dishwasher, two Franka arms stack cubes, and a Clearpath Husky drives a Mars sample-return route from a map. Every run is timed and scored, with seeds and a JSON export, so it works as a small benchmark.
+
+<a href="https://mujoco-playground-alpha.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_PLAY_FULL_SCREEN-0A0A0A?style=for-the-badge" alt="Play full screen"/></a>
+<a href="https://github.com/pgeedh/mujoco-playground"><img src="https://img.shields.io/badge/SOURCE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"/></a>
+
+</details>
+
 </div>
 
 ## Highlights
@@ -71,7 +85,7 @@ No hype: real deployments, real failures, and what I learned fixing them.
 | [**Open-ENPIRE-Gripper**](https://github.com/pgeedh/Open-ENPIRE-Gripper) | Open design of NVIDIA's ENPIRE compliant gripper, adapted to other robot arms (Robotiq Hand-E, OpenArm) |
 | [**WorldLab Robotics Examples**](https://github.com/pgeedh/WorldLab-RoboticsExamples) | Photorealistic digital-twin environments for robot training, generated with World Labs |
 | [**Reachy-Mini · Gemini + PersonaPlex**](https://github.com/pgeedh/Reachy-Mini-Gemini-PersonaPlex-Edition) | An empathetic desktop robot with Gemini vision, voice wake-words and 15+ physical expressions |
-| [**mujoco-playground**](https://github.com/pgeedh/mujoco-playground) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics |
+| [**mujoco-playground**](https://github.com/pgeedh/mujoco-playground) | Play three robots in the browser: G1 humanoid, bimanual Franka stacking and a Husky on Mars, scored like a benchmark |
 | [**UPenn Robotics Specialization**](https://github.com/pgeedh/RoboticsSpecialization-UPenn-AerialRobotics) | Aerial robotics, perception, estimation, planning and mobility coursework |
 
 </details>
