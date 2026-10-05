@@ -38,9 +38,9 @@ No hype: real deployments, real failures, and what I learned fixing them.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pgeedh/GeminiRobotics-InsightHub">Gemini Robotics Playbook</a></h3>
-      <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
-      A developer cookbook for Google DeepMind's Gemini Robotics: 31 prompt cards for spatial grounding, grasping, motion planning and safety, a ROS 2 bridge, and the official benchmarks. Translated into 4 languages.
+      <h3><a href="https://tadashi.pruthvigeedh.com">Tadashi</a></h3>
+      <sub><b>Research tooling · LaTeX · AI</b></sub><br/><br/>
+      The research operating system for robotics. Explore papers, track what you read and write your own in one place, with Notion-style inline AI commands in a LaTeX editor.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
@@ -50,14 +50,14 @@ No hype: real deployments, real failures, and what I learned fixing them.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/pgeedh/GeminiRobotics-InsightHub">Gemini Robotics Playbook</a></h3>
+      <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
+      A developer cookbook for Google DeepMind's Gemini Robotics: 31 prompt cards for spatial grounding, grasping, motion planning and safety, a ROS 2 bridge, and the official benchmarks. Translated into 4 languages.
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/pgeedh/NintAi-The-AI-Powered-Bike-Fit-Studio">NintAi</a></h3>
       <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
       A bike-fit studio on your laptop. YOLO11 tracks your pose while you pedal, and Gemini writes an expert-level fit report from the biomechanics.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/pgeedh/Gemma-Sense-Contextual_Model">GemmaSense</a></h3>
-      <sub><b>PaliGemma 2 · Gemini · edge + cloud</b></sub><br/><br/>
-      A hybrid vision-language brain for robots. A quantized PaliGemma 2 runs on-device, and the system escalates to Gemini in the cloud when confidence drops, so a kitchen robot can make sense of a workshop.
     </td>
   </tr>
 </table>
@@ -68,6 +68,7 @@ No hype: real deployments, real failures, and what I learned fixing them.
 
 | Project | What it does |
 |---|---|
+| [**GemmaSense**](https://github.com/pgeedh/Gemma-Sense-Contextual_Model) | Hybrid edge-cloud vision-language system: on-device PaliGemma 2 escalating to Gemini when confidence drops |
 | [**Open-ENPIRE-Gripper**](https://github.com/pgeedh/Open-ENPIRE-Gripper) | Open design of NVIDIA's ENPIRE compliant gripper, adapted to other robot arms (Robotiq Hand-E, OpenArm) |
 | [**WorldLab Robotics Examples**](https://github.com/pgeedh/WorldLab-RoboticsExamples) | Photorealistic digital-twin environments for robot training, generated with World Labs |
 | [**Reachy-Mini · Gemini + PersonaPlex**](https://github.com/pgeedh/Reachy-Mini-Gemini-PersonaPlex-Edition) | An empathetic desktop robot with Gemini vision, voice wake-words and 15+ physical expressions |
