@@ -1,110 +1,86 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/professional_banner.png" width="100%" alt="Perception Cognition Action Banner">
+  <img src="assets/hero.svg" width="100%" alt="Pruthvi Geedh. Robotics engineer building the deployment layer for physical AI."/>
 
-  <h1 style="margin-bottom: 5px; margin-top: 10px;">PRUTHVI OMKAR GEEDH</h1>
-  <p style="line-height: 1.2;">
-    <samp>
-      <b>ROBOTICS & EMBODIED AI</b><br/>
-      <i>Engineering intelligent systems that perceive, reason, and act.</i>
-    </samp>
+  <p>
+    <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=framer&logoColor=white" alt="Website"/></a>
+    <a href="https://linkedin.com/in/pruthvigeedh"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://x.com/pgeedh99"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://pruthvigeedh.substack.com"><img src="https://img.shields.io/badge/Newsletter-0A0A0A?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   </p>
 
-  <p align="center" style="margin-top: 15px; margin-bottom: 15px;">
-    <a href="https://www.bristolroboticslab.com/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/BRL_Logo_Main-1920w.webp" height="50" alt="Bristol Robotics Lab"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="http://www.bristol.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/university-of-bristol.png" height="50" alt="University of Bristol"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.rca.ac.uk/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/rca_logo.jpeg" height="50" alt="Royal College of Art"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://mu.ac.in/"><img src="https://raw.githubusercontent.com/pgeedh/pgeedh/main/assets/mumbai_logo.jpeg" height="50" alt="University of Mumbai"/></a>
-  </p>
+  <table><tr>
+    <td align="center" width="20%"><a href="https://www.neuracore.com/"><img src="assets/logo-neuracore.svg" width="100%" alt="Neuracore"/></a></td>
+    <td align="center" width="20%"><a href="https://www.rca.ac.uk/research-innovation/research-centres/rca-robotics-laboratory/"><img src="assets/logo-rca.svg" width="100%" alt="RCA Robotics Lab"/></a></td>
+    <td align="center" width="20%"><a href="https://www.bristolroboticslab.com/"><img src="assets/logo-brl.svg" width="100%" alt="Bristol Robotics Lab"/></a></td>
+    <td align="center" width="20%"><a href="https://www.bristol.ac.uk/"><img src="assets/logo-bristol.svg" width="100%" alt="Univ. of Bristol"/></a></td>
+    <td align="center" width="20%"><a href="https://mu.ac.in/"><img src="assets/logo-mumbai.svg" width="100%" alt="Univ. of Mumbai"/></a></td>
+  </tr></table>
 
-  <p style="margin-bottom: 25px;">
-    <a href="https://linkedin.com/in/pruthvigeedh">
-      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="24"/>
-    </a>
-    <a href="https://pruthvigeedh.com">
-      <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=framer&logoColor=white" height="24"/>
-    </a>
-    <a href="mailto:geedhpruthvi@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" height="24"/>
-    </a>
-    <a href="https://github.com/pgeedh">
-      <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" height="24"/>
-    </a>
-  </p>
+</div>
+
+## About
+
+Physical AI is advancing fast, but almost none of it reaches a real factory floor. The gap between a model that works in simulation and a robot that works in production is where I work: VLA models, world models, SLAM and navigation. I lead solutions engineering at Neuracore and founded ARTHÉ, an open-source robotics community.
+
+No hype: real deployments, real failures, and what I learned fixing them.
+
+<div align="center">
+  <a href="https://www.linkedin.com/company/arthe/"><img src="https://img.shields.io/badge/JOIN_ARTH%C3%89_ON_LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="Join ARTHÉ on LinkedIn"/></a>
 </div>
 
 <div align="center">
-  <h3>:: TECHNICAL ARSENAL ::</h3>
+  <a href="https://pgeedh.github.io/humanoid-mujoco/"><img src="assets/play-humanoid.svg" width="100%" alt="Play the humanoid: a Unitree G1 in MuJoCo physics, running in your browser"/></a>
 </div>
 
-<table align="center" style="border-collapse: separate; border-spacing: 0px; border: none; width: 100%;">
-  <thead>
-    <tr>
-      <th width="33%" align="center" style="padding-bottom: 10px;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/visible.png" width="20" style="vertical-align:middle; filter: invert(1);"/> PERCEPTION
-      </th>
-      <th width="33%" align="center" style="padding-bottom: 10px;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/brain.png" width="20" style="vertical-align:middle; filter: invert(1);"/> COGNITION
-      </th>
-      <th width="33%" align="center" style="padding-bottom: 10px;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" width="20" style="vertical-align:middle; filter: invert(1);"/> ACTION
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/YOLO11-white?style=flat-square&logo=ultralytics&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&logoColor=black"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TensorFlow-white?style=flat-square&logo=tensorflow&logoColor=black"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Open3D-white?style=flat-square&logo=python&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CUDA-white?style=flat-square&logo=nvidia&logoColor=black"/>
-        <br/><br/>
-        <code>SPATIAL_AI</code>
-      </td>
-      <td valign="top" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/ROS_2-black?style=flat-square&logo=ros&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Nav2-black?style=flat-square&logo=ros&logoColor=white"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Hugging_Face_VLA-black?style=flat-square&logo=huggingface&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NVIDIA_AI-black?style=flat-square&logo=nvidia&logoColor=white"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/DeepMind-black?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white"/>
-        <br/><br/>
-        <code>DECISION_MAKING</code>
-      </td>
-      <td valign="top" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/ISAAC_SIM-white?style=flat-square&logo=nvidia&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Foxglove-white?style=flat-square&logo=googlechrome&logoColor=black"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/PX4-white?style=flat-square&logo=drone&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Gazebo-white?style=flat-square&logo=gazebo&logoColor=black"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Jetson_Orin-white?style=flat-square&logo=nvidia&logoColor=black"/>
-        <img src="https://img.shields.io/badge/R_Pi-white?style=flat-square&logo=raspberrypi&logoColor=black"/>
-        <br/><br/>
-        <code>SIM_2_REAL</code>
-      </td>
-    </tr>
-  </tbody>
+## Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://tadashi.pruthvigeedh.com">Tadashi</a></h3>
+      <sub><b>Research tooling · LaTeX · AI</b></sub><br/><br/>
+      The research operating system for robotics. Explore papers, track what you read and write your own in one place, with Notion-style inline AI commands in a LaTeX editor.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
+      <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
+      Open pull requests to Hugging Face's LeRobot evaluation pipeline: persisting recorded datasets across batched evals and adding provenance metadata to eval results. Also contributing fixes to VLA-Adapter.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pgeedh/GeminiRobotics-InsightHub">Gemini Robotics Playbook</a></h3>
+      <sub><b>Gemini Robotics ER 2.0 · VLA 2.0 · ROS 2</b></sub><br/><br/>
+      A developer cookbook for Google DeepMind's Gemini Robotics: 31 prompt cards for spatial grounding, grasping, motion planning and safety, a ROS 2 bridge, and the official benchmarks. Translated into 4 languages.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pgeedh/NintAi-The-AI-Powered-Bike-Fit-Studio">NintAi</a></h3>
+      <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
+      A bike-fit studio on your laptop. YOLO11 tracks your pose while you pedal, and Gemini writes an expert-level fit report from the biomechanics.
+    </td>
+  </tr>
 </table>
 
+<details>
+<summary><b>More projects</b></summary>
 <br/>
 
-<div align="center">
-  <p>
-    <samp>
-      <b>CURRENT RESEARCH FOCUS:</b><br/>
-      Vision-Language-Action (VLA) Models &nbsp;•&nbsp; Sim-to-Real Transfer &nbsp;•&nbsp; Foundation Models for Robotics
-    </samp>
-  </p>
-  
-  <br/>
+| Project | What it does |
+|---|---|
+| [**GemmaSense**](https://github.com/pgeedh/Gemma-Sense-Contextual_Model) | Hybrid edge-cloud vision-language system: on-device PaliGemma 2 escalating to Gemini when confidence drops |
+| [**Open-ENPIRE-Gripper**](https://github.com/pgeedh/Open-ENPIRE-Gripper) | Open design of NVIDIA's ENPIRE compliant gripper, adapted to other robot arms (Robotiq Hand-E, OpenArm) |
+| [**WorldLab Robotics Examples**](https://github.com/pgeedh/WorldLab-RoboticsExamples) | Photorealistic digital-twin environments for robot training, generated with World Labs |
+| [**Reachy-Mini · Gemini + PersonaPlex**](https://github.com/pgeedh/Reachy-Mini-Gemini-PersonaPlex-Edition) | An empathetic desktop robot with Gemini vision, voice wake-words and 15+ physical expressions |
+| [**humanoid-mujoco**](https://github.com/pgeedh/humanoid-mujoco) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics |
+| [**UPenn Robotics Specialization**](https://github.com/pgeedh/RoboticsSpecialization-UPenn-AerialRobotics) | Aerial robotics, perception, estimation, planning and mobility coursework |
 
-  <a href="https://topmate.io/pruthvi_geedh/1217335?utm_source=public_profile&utm_campaign=pruthvi_geedh">
-    <img src="https://img.shields.io/badge/BOOK_COLLABORATION_CALL-007AB8?style=for-the-badge&logo=googlemeet&logoColor=white" height="38"/>
-  </a>
+</details>
+
+## Work with me
+
+Research collaboration, talks and partnerships, or a mentoring call.
+
+<div align="center">
+  <a href="https://topmate.io/pruthvi_geedh/1217335?utm_source=public_profile&utm_campaign=pruthvi_geedh"><img src="https://img.shields.io/badge/BOOK_A_CALL-0A0A0A?style=for-the-badge&logo=googlemeet&logoColor=white" height="38" alt="Book a call"/></a>
+  <a href="mailto:geedhpruthvi@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email me"/></a>
 </div>
