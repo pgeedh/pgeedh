@@ -2,11 +2,10 @@
   <img src="assets/hero.svg" width="100%" alt="Pruthvi Geedh. Robotics engineer building the deployment layer for physical AI."/>
 
   <p>
-    <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=framer&logoColor=white" alt="Website"/></a>
     <a href="https://linkedin.com/in/pruthvigeedh"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://pruthvigeedh.substack.com"><img src="https://img.shields.io/badge/Newsletter-0A0A0A?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
-    <a href="https://www.neuracore.com/"><img src="https://img.shields.io/badge/Neuracore-0A0A0A?style=for-the-badge" alt="Neuracore platform"/></a>
     <a href="https://x.com/pgeedh99"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://pruthvigeedh.substack.com"><img src="https://img.shields.io/badge/Newsletter-0A0A0A?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   </p>
 
   <table><tr>
