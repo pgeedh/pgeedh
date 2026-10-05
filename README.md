@@ -71,7 +71,7 @@ No hype: real deployments, real failures, and what I learned fixing them.
 | [**Open-ENPIRE-Gripper**](https://github.com/pgeedh/Open-ENPIRE-Gripper) | Open design of NVIDIA's ENPIRE compliant gripper, adapted to other robot arms (Robotiq Hand-E, OpenArm) |
 | [**WorldLab Robotics Examples**](https://github.com/pgeedh/WorldLab-RoboticsExamples) | Photorealistic digital-twin environments for robot training, generated with World Labs |
 | [**Reachy-Mini · Gemini + PersonaPlex**](https://github.com/pgeedh/Reachy-Mini-Gemini-PersonaPlex-Edition) | An empathetic desktop robot with Gemini vision, voice wake-words and 15+ physical expressions |
-| [**humanoid-mujoco**](https://github.com/pgeedh/humanoid-mujoco) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics |
+| [**mujoco-playground**](https://github.com/pgeedh/mujoco-playground) | Unitree G1 humanoid jumping over obstacles in MuJoCo physics |
 | [**UPenn Robotics Specialization**](https://github.com/pgeedh/RoboticsSpecialization-UPenn-AerialRobotics) | Aerial robotics, perception, estimation, planning and mobility coursework |
 
 </details>
