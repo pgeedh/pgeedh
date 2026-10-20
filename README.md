@@ -42,9 +42,9 @@ No hype: real deployments, real failures, and what I learned fixing them.
       The research operating system for robotics. Explore papers, track what you read and write your own in one place, with Notion-style inline AI commands in a LaTeX editor.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
-      <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
-      Open pull requests to Hugging Face's LeRobot evaluation pipeline: persisting recorded datasets across batched evals and adding provenance metadata to eval results. Also contributing fixes to VLA-Adapter.
+      <h3><a href="https://github.com/pgeedh/OpenVelo">OpenVelo</a></h3>
+      <sub><b>MediaPipe · RTMPose · computer vision</b></sub><br/><br/>
+      Open-source bike fitting from a 30-second phone video. It tracks your joints through every pedal stroke and returns measured angles with confidence ranges and a ranked plan for saddle, reach and bars. Free, private and fully offline.
     </td>
   </tr>
   <tr>
@@ -54,9 +54,9 @@ No hype: real deployments, real failures, and what I learned fixing them.
       A developer cookbook for Google DeepMind's Gemini Robotics: 31 prompt cards for spatial grounding, grasping, motion planning and safety, a ROS 2 bridge, and the official benchmarks. Translated into 4 languages.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pgeedh/NintAi-The-AI-Powered-Bike-Fit-Studio">NintAi</a></h3>
-      <sub><b>YOLO11 · Gemini · computer vision</b></sub><br/><br/>
-      A bike-fit studio on your laptop. YOLO11 tracks your pose while you pedal, and Gemini writes an expert-level fit report from the biomechanics.
+      <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
+      <sub><b>Hugging Face · PyTorch · robot learning</b></sub><br/><br/>
+      Open pull requests to Hugging Face's LeRobot evaluation pipeline: persisting recorded datasets across batched evals and adding provenance metadata to eval results. Also contributing fixes to VLA-Adapter.
     </td>
   </tr>
 </table>
