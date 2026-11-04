@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Pruthvi Geedh. Robotics engineer building the deployment layer for physical AI."/>
+  <img src="assets/hero.svg" width="100%" alt="Pruthvi Geedh. Robotics engineer solving real-world deployment problems. Animated Tadashi robots: arms stacking, Spot dragging a tyre, a G1 humanoid and a delivery drone."/>
 
   <p>
     <a href="https://pruthvigeedh.com"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=framer&logoColor=white" alt="Website"/></a>
@@ -20,7 +20,7 @@
 
 ## About
 
-Physical AI is advancing fast, but almost none of it reaches a real factory floor. The gap between a model that works in simulation and a robot that works in production is where I work: VLA models, world models, SLAM and navigation. I lead solutions engineering at Neuracore and founded ARTHÉ, an open-source robotics community.
+I'm a robotics engineer focused on solving real-world deployment problems. Physical AI is advancing fast, but almost none of it reaches a real factory floor. The gap between a model that works in simulation and a robot that works in production is where I work: VLA models, world models, SLAM and navigation. I lead solutions engineering at Neuracore and founded ARTHÉ, an open-source robotics community.
 
 No hype: real deployments, real failures, and what I learned fixing them.
 
@@ -39,7 +39,7 @@ No hype: real deployments, real failures, and what I learned fixing them.
     <td width="50%" valign="top">
       <h3><a href="https://tadashi.pruthvigeedh.com">Tadashi</a></h3>
       <sub><b>Research tooling · LaTeX · AI</b></sub><br/><br/>
-      The research operating system for robotics. Explore papers, track what you read and write your own in one place, with Notion-style inline AI commands in a LaTeX editor.
+      The research operating system for robotics. Find new papers from arXiv, ask any paper a question and get cited answers, organise your reading list, and write your own in a LaTeX editor with inline AI commands. The hero art on this profile is Tadashi's own home-page robots.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/huggingface/lerobot/pulls?q=author%3Apgeedh">LeRobot contributions</a></h3>
